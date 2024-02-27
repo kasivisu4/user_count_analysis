@@ -1,0 +1,2149 @@
+﻿Continent,Country,State,City,Active user count
+Africa,Egypt,Beheira,Damanhur,1
+Africa,Egypt,Cairo,Cairo,28
+Africa,Egypt,Giza,Giza,2
+Africa,Egypt,Monufia,Munūf,6
+Africa,Egypt,Qalyubia,Al Khuşūş,1
+Africa,Egypt,Red Sea,Hurghada,1
+Africa,Morocco,Marrakesh-Safi,Marrakesh,1
+Africa,South Africa,Gauteng,Randburg,1
+Africa,South Africa,Gauteng,Johannesburg,1
+Africa,South Africa,Western Cape,Cape Town,1
+Africa,Tunisia,Gafsa,As Sanad,2
+Africa,Tunisia,Tunis Governorate,Tunis,6
+Asia,Bangladesh,Dhaka,Dhaka,1
+Asia,China,Beijing,Jinrongjie,5
+Asia,China,Beijing,Beijing,4
+Asia,China,Guangdong,Zhanjiang,1
+Asia,China,Guangdong,Shenzhen,3
+Asia,China,Hebei,Zhangjiakou,1
+Asia,China,Jiangsu,Nanjing,1
+Asia,China,Liaoning,Shenyang,3
+Asia,China,Liaoning,Dalianwan,1
+Asia,China,Shandong,Qingdao,1
+Asia,China,Shanghai,Shanghai,9
+Asia,Hong Kong,Central and Western,Hong Kong,3
+Asia,India,Andhra Pradesh,Yanam,17
+Asia,India,Andhra Pradesh,Vuyyūru,1
+Asia,India,Andhra Pradesh,Vizianagaram,19
+Asia,India,Andhra Pradesh,Visakhapatnam,56
+Asia,India,Andhra Pradesh,Vijayawada,34
+Asia,India,Andhra Pradesh,Venkatagiri,2
+Asia,India,Andhra Pradesh,Tirupati,5
+Asia,India,Andhra Pradesh,Tādepallegūdem,1
+Asia,India,Andhra Pradesh,Rājahmundry,2
+Asia,India,Andhra Pradesh,Puttūr,1
+Asia,India,Andhra Pradesh,Puttaparthi,1
+Asia,India,Andhra Pradesh,Penugonda,2
+Asia,India,Andhra Pradesh,Pālkonda,1
+Asia,India,Andhra Pradesh,Palāsa,1
+Asia,India,Andhra Pradesh,Nellore,1
+Asia,India,Andhra Pradesh,Narasaraopet,1
+Asia,India,Andhra Pradesh,Machilīpatnam,1
+Asia,India,Andhra Pradesh,Kurnool,1
+Asia,India,Andhra Pradesh,Kolanukonda,1
+Asia,India,Andhra Pradesh,Hindupur,2
+Asia,India,Andhra Pradesh,Guntur,1
+Asia,India,Andhra Pradesh,Guntakal Junction,1
+Asia,India,Andhra Pradesh,Dharmavaram,1
+Asia,India,Andhra Pradesh,Darsi,1
+Asia,India,Andhra Pradesh,Bhīmavaram,1
+Asia,India,Andhra Pradesh,Anantapur,2
+Asia,India,Assam,Tezpur,1
+Asia,India,Assam,North Guwāhāti,1
+Asia,India,Assam,Maibong,1
+Asia,India,Assam,Guwahati,2
+Asia,India,Bihar,Rusera,1
+Asia,India,Bihar,Patna,4
+Asia,India,Bihar,Muzaffarpur,1
+Asia,India,Bihar,Dehri,1
+Asia,India,Chandigarh,Chandīgarh,1
+Asia,India,Delhi,New Delhi,11
+Asia,India,Delhi,Najafgarh,1
+Asia,India,Delhi,Delhi,34
+Asia,India,Goa,Panaji,1
+Asia,India,Goa,Cuncolim,1
+Asia,India,Gujarat,Vapi,1
+Asia,India,Gujarat,Vadodara,11
+Asia,India,Gujarat,Surendranagar,1
+Asia,India,Gujarat,Surat,6
+Asia,India,Gujarat,Sikka,1
+Asia,India,Gujarat,Sarkhej,1
+Asia,India,Gujarat,Dīsa,1
+Asia,India,Gujarat,Bharūch,1
+Asia,India,Gujarat,Ahmedabad,1
+Asia,India,Haryana,Sonīpat,1
+Asia,India,Haryana,Rohtak,1
+Asia,India,Haryana,Gurgaon,282
+Asia,India,Haryana,Faridabad,1
+Asia,India,Himachal Pradesh,Shimla,1
+Asia,India,Jammu and Kashmir,Srinagar,1
+Asia,India,Jammu and Kashmir,Jammu,2
+Asia,India,Jharkhand,Ranchi,1
+Asia,India,Karnataka,Yelahanka,2
+Asia,India,Karnataka,Yādgīr,4
+Asia,India,Karnataka,Ullal,1
+Asia,India,Karnataka,Udupi,5
+Asia,India,Karnataka,Tumkūr,23
+Asia,India,Karnataka,Tiptūr,6
+Asia,India,Karnataka,Tarikere,1
+Asia,India,Karnataka,Sulya,1
+Asia,India,Karnataka,Srāvana Belgola,1
+Asia,India,Karnataka,Siruguppa,1
+Asia,India,Karnataka,Sirsi,2
+Asia,India,Karnataka,Sīra,2
+Asia,India,Karnataka,Sindhnūr,1
+Asia,India,Karnataka,Sindgi,1
+Asia,India,Karnataka,Sidlaghatta,1
+Asia,India,Karnataka,Shorāpur,1
+Asia,India,Karnataka,Shimoga,5
+Asia,India,Karnataka,Shiggaon,1
+Asia,India,Karnataka,Seram,1
+Asia,India,Karnataka,Sandūr,2
+Asia,India,Karnataka,Sāgar,2
+Asia,India,Karnataka,Robertsonpet,1
+Asia,India,Karnataka,Rāichūr,7
+Asia,India,Karnataka,Rabkavi,2
+Asia,India,Karnataka,Puttūr,1
+Asia,India,Karnataka,Nelamangala,54
+Asia,India,Karnataka,Nargund,1
+Asia,India,Karnataka,Mysore,33
+Asia,India,Karnataka,Mulbāgal,1
+Asia,India,Karnataka,Mudhol,3
+Asia,India,Karnataka,Māyakonda,1
+Asia,India,Karnataka,Mānvi,1
+Asia,India,Karnataka,Mangalore,15
+Asia,India,Karnataka,Mandya,2
+Asia,India,Karnataka,Malpe,1
+Asia,India,Karnataka,Madikeri,1
+Asia,India,Karnataka,Madhugiri,1
+Asia,India,Karnataka,Maddūr,1
+Asia,India,Karnataka,Kushālnagar,2
+Asia,India,Karnataka,Konnūr,1
+Asia,India,Karnataka,Kollegāl,1
+Asia,India,Karnataka,Kolār,3
+Asia,India,Karnataka,Kārkala,1
+Asia,India,Karnataka,Kānkānhalli,1
+Asia,India,Karnataka,Kalaburagi,7
+Asia,India,Karnataka,Jamkhandi,3
+Asia,India,Karnataka,Hungund,1
+Asia,India,Karnataka,Hubli,6
+Asia,India,Karnataka,Hospet,4
+Asia,India,Karnataka,Hoskote,19
+Asia,India,Karnataka,Heggadadevankote,1
+Asia,India,Karnataka,Hassan,1
+Asia,India,Karnataka,Harpanahalli,1
+Asia,India,Karnataka,Hāngal,1
+Asia,India,Karnataka,Gundlupēt,2
+Asia,India,Karnataka,Gokarna,1
+Asia,India,Karnataka,Gauribidanur,1
+Asia,India,Karnataka,Gangolli,1
+Asia,India,Karnataka,Gangāwati,2
+Asia,India,Karnataka,Doddaballapura,15
+Asia,India,Karnataka,Davangere,2
+Asia,India,Karnataka,Dandeli,1
+Asia,India,Karnataka,Closepet,1
+Asia,India,Karnataka,Chitradurga,1
+Asia,India,Karnataka,Chintāmani,6
+Asia,India,Karnataka,Chikodi,5
+Asia,India,Karnataka,Channapatna,1
+Asia,India,Karnataka,Byādgi,1
+Asia,India,Karnataka,Bijapur,3
+Asia,India,Karnataka,Bīdar,1
+Asia,India,Karnataka,Bhadrāvati,2
+Asia,India,Karnataka,Bengaluru,3336
+Asia,India,Karnataka,Bellary,4
+Asia,India,Karnataka,Belagavi,1
+Asia,India,Karnataka,Bagalkot,1
+Asia,India,Karnataka,Anekal,1
+Asia,India,Karnataka,Aland,1
+Asia,India,Kerala,Vettūr,1
+Asia,India,Kerala,Tirur,85
+Asia,India,Kerala,Thrissur,10
+Asia,India,Kerala,Thiruvananthapuram,42
+Asia,India,Kerala,Tellicherry,30
+Asia,India,Kerala,Talipparamba,2
+Asia,India,Kerala,Punalūr,29
+Asia,India,Kerala,Perumpāvūr,1
+Asia,India,Kerala,Pariyāpuram,1
+Asia,India,Kerala,Palakkad,3
+Asia,India,Kerala,Nīlēshwar,1
+Asia,India,Kerala,Neyyāttinkara,75
+Asia,India,Kerala,Mattanur,1
+Asia,India,Kerala,Kunnamkulam,25
+Asia,India,Kerala,Kozhikode,4
+Asia,India,Kerala,Kottayam,2
+Asia,India,Kerala,Kollam,47
+Asia,India,Kerala,Kattanam,2
+Asia,India,Kerala,Kanayannur,8
+Asia,India,Kerala,Irinjālakuda,4
+Asia,India,Kerala,Cochin,42
+Asia,India,Kerala,Cherthala,1
+Asia,India,Kerala,Alappuzha,2
+Asia,India,Kerala,Alangad,1
+Asia,India,Madhya Pradesh,Vidisha,1
+Asia,India,Madhya Pradesh,Indore,3
+Asia,India,Madhya Pradesh,Chhindwāra,49
+Asia,India,Madhya Pradesh,Bhopāl,3
+Asia,India,Madhya Pradesh,Bālāghāt,1
+Asia,India,Maharashtra,Umarga,1
+Asia,India,Maharashtra,Ulhasnagar,1
+Asia,India,Maharashtra,Udgīr,1
+Asia,India,Maharashtra,Thāne,4
+Asia,India,Maharashtra,Sholapur,2
+Asia,India,Maharashtra,Sāngli,2
+Asia,India,Maharashtra,Sambhaji Nagar,2
+Asia,India,Maharashtra,Pune,11
+Asia,India,Maharashtra,Pimpri,5
+Asia,India,Maharashtra,Nashik,3
+Asia,India,Maharashtra,Nagpur,1
+Asia,India,Maharashtra,Mumbai,624
+Asia,India,Maharashtra,Borivli,7
+Asia,India,Maharashtra,Bhiwandi,1
+Asia,India,Maharashtra,Bārāmati,1
+Asia,India,Maharashtra,Airoli,15
+Asia,India,Odisha,Khurda,2
+Asia,India,Odisha,Bhubaneswar,7
+Asia,India,Puducherry,Puducherry,1
+Asia,India,Punjab,Ludhiāna,1
+Asia,India,Rajasthan,Udaipur,2
+Asia,India,Rajasthan,Sīkar,1
+Asia,India,Rajasthan,Rīngas,4
+Asia,India,Rajasthan,Kota,1
+Asia,India,Rajasthan,Jodhpur,1
+Asia,India,Rajasthan,Jaipur,4
+Asia,India,Rajasthan,Chittaurgarh,1
+Asia,India,Rajasthan,Bhīlwāra,1
+Asia,India,Tamil Nadu,Vīraganūr,1
+Asia,India,Tamil Nadu,Villupuram,7
+Asia,India,Tamil Nadu,Vikravāndi,40
+Asia,India,Tamil Nadu,Vengavasal,1
+Asia,India,Tamil Nadu,Vellore,59
+Asia,India,Tamil Nadu,Vedasandūr,1
+Asia,India,Tamil Nadu,Vandavāsi,11
+Asia,India,Tamil Nadu,Turaiyūr,11
+Asia,India,Tamil Nadu,Tiruppur,24
+Asia,India,Tamil Nadu,Tiruchirappalli,6
+Asia,India,Tamil Nadu,Tiruchengode,1
+Asia,India,Tamil Nadu,Thoothukudi,1
+Asia,India,Tamil Nadu,Teni,8
+Asia,India,Tamil Nadu,Tambaram,5
+Asia,India,Tamil Nadu,Salem,8
+Asia,India,Tamil Nadu,Saint Thomas Mount,39
+Asia,India,Tamil Nadu,Rānipet,1
+Asia,India,Tamil Nadu,Pollachi,1
+Asia,India,Tamil Nadu,Panruti,2
+Asia,India,Tamil Nadu,Pallāvaram,3
+Asia,India,Tamil Nadu,Neelankarai,1
+Asia,India,Tamil Nadu,Nāravārikuppam,2
+Asia,India,Tamil Nadu,Mūlanūr,1
+Asia,India,Tamil Nadu,Mīnjūr,1
+Asia,India,Tamil Nadu,Manappakkam,4
+Asia,India,Tamil Nadu,Madurai,10
+Asia,India,Tamil Nadu,Madipakkam,1
+Asia,India,Tamil Nadu,Kurinjippādi,1
+Asia,India,Tamil Nadu,Kallakurichi,18
+Asia,India,Tamil Nadu,Injambakkam,47
+Asia,India,Tamil Nadu,Hosūr,10
+Asia,India,Tamil Nadu,Erode,2
+Asia,India,Tamil Nadu,Dindigul,1
+Asia,India,Tamil Nadu,Coimbatore,26
+Asia,India,Tamil Nadu,Chennai,77
+Asia,India,Tamil Nadu,Āvadi,1
+Asia,India,Tamil Nadu,Arakkonam,1
+Asia,India,Tamil Nadu,Anamalais,1
+Asia,India,Tamil Nadu,Ambattūr,13
+Asia,India,Telangana,Zahirābād,2
+Asia,India,Telangana,Warangal,1
+Asia,India,Telangana,Secunderabad,2
+Asia,India,Telangana,Rāmgundam,1
+Asia,India,Telangana,Quthbullapur,2
+Asia,India,Telangana,Nizāmābād,2
+Asia,India,Telangana,Mancherāl,1
+Asia,India,Telangana,Lal Bahadur Nagar,1
+Asia,India,Telangana,Kūkatpalli,3
+Asia,India,Telangana,Hyderābād,100
+Asia,India,Telangana,Gaddi Annaram,1
+Asia,India,Uttar Pradesh,Varanasi,1
+Asia,India,Uttar Pradesh,Usehat,1
+Asia,India,Uttar Pradesh,Noida,1
+Asia,India,Uttar Pradesh,Morādābād,1
+Asia,India,Uttar Pradesh,Lucknow,4
+Asia,India,Uttar Pradesh,Kanpur,1
+Asia,India,Uttar Pradesh,Islāmnagar,2
+Asia,India,Uttarakhand,Haldwani,1
+Asia,India,West Bengal,Maheshtala,1
+Asia,India,West Bengal,Kolkata,5
+Asia,India,West Bengal,Dam Dam,1
+Asia,Indonesia,Jakarta,Jakarta,1
+Asia,Israel,Tel Aviv,Tel Aviv,2
+Asia,Israel,Tel Aviv,H̱olon,1
+Asia,Japan,Aichi,Toyota,2
+Asia,Japan,Aichi,Toyokawa,1
+Asia,Japan,Aichi,Toyohashi,1
+Asia,Japan,Aichi,Okazaki,3
+Asia,Japan,Aichi,Nagoya,19
+Asia,Japan,Aichi,Kuroda,1
+Asia,Japan,Aichi,Kitanagoya,1
+Asia,Japan,Aichi,Kasugai,1
+Asia,Japan,Akita,Semboku,1
+Asia,Japan,Akita,Akita,1
+Asia,Japan,Aomori,Hachinohe,1
+Asia,Japan,Chiba,Yōkaichiba,1
+Asia,Japan,Chiba,Urayasu,5
+Asia,Japan,Chiba,Tateyama,1
+Asia,Japan,Chiba,Ōhara,1
+Asia,Japan,Chiba,Ōamishirasato,1
+Asia,Japan,Chiba,Ōami,1
+Asia,Japan,Chiba,Narashino,4
+Asia,Japan,Chiba,Nagareyama,2
+Asia,Japan,Chiba,Matsudo,3
+Asia,Japan,Chiba,Kimitsu,1
+Asia,Japan,Chiba,Kemigawa,1
+Asia,Japan,Chiba,Kashiwa,4
+Asia,Japan,Chiba,Kamagaya,2
+Asia,Japan,Chiba,Inzai,1
+Asia,Japan,Chiba,Ichikawa-minami,14
+Asia,Japan,Chiba,Ichihara,1
+Asia,Japan,Chiba,Funabashi,14
+Asia,Japan,Chiba,Chiba,9
+Asia,Japan,Fukuoka,Umi,1
+Asia,Japan,Fukuoka,Tachiarai,1
+Asia,Japan,Fukuoka,Munakata,1
+Asia,Japan,Fukuoka,Kitakyushu,1
+Asia,Japan,Fukuoka,Fukuoka,15
+Asia,Japan,Fukushima,Yanagawamachi-saiwaichō,1
+Asia,Japan,Fukushima,Tamura,1
+Asia,Japan,Fukushima,Shirakawa,1
+Asia,Japan,Fukushima,Motomiya,1
+Asia,Japan,Fukushima,Fukushima,1
+Asia,Japan,Gifu,Mitake,1
+Asia,Japan,Gifu,Minokamo,1
+Asia,Japan,Gifu,Hashima,1
+Asia,Japan,Gifu,Gifu-shi,1
+Asia,Japan,Gunma,Tatebayashi,1
+Asia,Japan,Gunma,Sakai-nakajima,1
+Asia,Japan,Gunma,Ōta,1
+Asia,Japan,Gunma,Maebashi,3
+Asia,Japan,Hiroshima,Onomichi,1
+Asia,Japan,Hiroshima,Hiroshima,2
+Asia,Japan,Hiroshima,Higashihiroshima,2
+Asia,Japan,Hokkaido,Takikawa,1
+Asia,Japan,Hokkaido,Sapporo,41
+Asia,Japan,Hokkaido,Muroran,1
+Asia,Japan,Hokkaido,Hakodate,2
+Asia,Japan,Hokkaido,Eniwa,1
+Asia,Japan,Hokkaido,Chitose,1
+Asia,Japan,Hyōgo,Nishinomiya-hama,4
+Asia,Japan,Hyōgo,Kobe,10
+Asia,Japan,Hyōgo,Kawanishi,1
+Asia,Japan,Hyōgo,Kakogawachō-honmachi,1
+Asia,Japan,Hyōgo,Kakogawa,3
+Asia,Japan,Hyōgo,Himeji,2
+Asia,Japan,Hyōgo,Amagasaki,2
+Asia,Japan,Hyōgo,Akashi,2
+Asia,Japan,Ibaraki,Tsukuba,3
+Asia,Japan,Ibaraki,Shimodate,1
+Asia,Japan,Ibaraki,Shimo-tsuma,1
+Asia,Japan,Ibaraki,Koga,2
+Asia,Japan,Ibaraki,Katsuta,1
+Asia,Japan,Kagawa,Takamatsu,2
+Asia,Japan,Kagawa,Sakaidechō,1
+Asia,Japan,Kanagawa,Zushi,1
+Asia,Japan,Kanagawa,Zama,2
+Asia,Japan,Kanagawa,Yokosuka,2
+Asia,Japan,Kanagawa,Yokohama,131
+Asia,Japan,Kanagawa,Yamato,2
+Asia,Japan,Kanagawa,Sagamihara,21
+Asia,Japan,Kanagawa,Odawara,1
+Asia,Japan,Kanagawa,Minamirinkan,1
+Asia,Japan,Kanagawa,Kawasaki,41
+Asia,Japan,Kanagawa,Kamakura,1
+Asia,Japan,Kanagawa,Hiratsuka,1
+Asia,Japan,Kanagawa,Hayama,1
+Asia,Japan,Kanagawa,Fujisawa,6
+Asia,Japan,Kanagawa,Chigasaki,2
+Asia,Japan,Kanagawa,Ayase,2
+Asia,Japan,Kanagawa,Atsugi,2
+Asia,Japan,Kumamoto,Kōshi,1
+Asia,Japan,Kumamoto,Honmachi,1
+Asia,Japan,Kumamoto,Arao,1
+Asia,Japan,Kyoto,Uji,1
+Asia,Japan,Kyoto,Mukō,2
+Asia,Japan,Kyoto,Kyoto,1
+Asia,Japan,Kyoto,Ide,1
+Asia,Japan,Mie,Yokkaichi,1
+Asia,Japan,Miyagi,Watari,1
+Asia,Japan,Miyagi,Sendai,2
+Asia,Japan,Nagano,Saku,1
+Asia,Japan,Nagano,Nagano,2
+Asia,Japan,Nagano,Iijima,1
+Asia,Japan,Nagasaki,Ōmura,1
+Asia,Japan,Nara,Yamatokōriyama,2
+Asia,Japan,Nara,Tawaramoto,2
+Asia,Japan,Nara,Nara-shi,1
+Asia,Japan,Nara,Kashihara-shi,1
+Asia,Japan,Nara,Kanmaki,1
+Asia,Japan,Niigata,Tsubame,1
+Asia,Japan,Niigata,Niigata,2
+Asia,Japan,Niigata,Nagaoka,1
+Asia,Japan,Oita,Ōita,1
+Asia,Japan,Okayama,Kurashiki,2
+Asia,Japan,Ōsaka,Toyonaka,4
+Asia,Japan,Ōsaka,Takatsuki,1
+Asia,Japan,Ōsaka,Suita,2
+Asia,Japan,Ōsaka,Settsu,1
+Asia,Japan,Ōsaka,Sakai,3
+Asia,Japan,Ōsaka,Osaka,202
+Asia,Japan,Ōsaka,Moriguchi,1
+Asia,Japan,Ōsaka,Matsubara,1
+Asia,Japan,Ōsaka,Katano,1
+Asia,Japan,Ōsaka,Izumi,1
+Asia,Japan,Ōsaka,Higashi-ōsaka,2
+Asia,Japan,Ōsaka,Daitō,1
+Asia,Japan,Saga,Taku,1
+Asia,Japan,Saga,Saga,1
+Asia,Japan,Saga,Imarichō-kō,1
+Asia,Japan,Saitama,Yoshikawa,1
+Asia,Japan,Saitama,Yono,13
+Asia,Japan,Saitama,Yashio,6
+Asia,Japan,Saitama,Tokorozawa,6
+Asia,Japan,Saitama,Toda,1
+Asia,Japan,Saitama,Sōka,1
+Asia,Japan,Saitama,Shimotoda,1
+Asia,Japan,Saitama,Shiki,1
+Asia,Japan,Saitama,Saitama,37
+Asia,Japan,Saitama,Ōi,1
+Asia,Japan,Saitama,Misato,3
+Asia,Japan,Saitama,Kumagaya,1
+Asia,Japan,Saitama,Koshigaya,1
+Asia,Japan,Saitama,Kawaguchi,4
+Asia,Japan,Saitama,Kawagoe,3
+Asia,Japan,Saitama,Iruma,1
+Asia,Japan,Saitama,Hatogaya-honchō,1
+Asia,Japan,Saitama,Fukayachō,1
+Asia,Japan,Saitama,Fujimino,1
+Asia,Japan,Saitama,Fujimi,1
+Asia,Japan,Shiga,Ōtsu,1
+Asia,Japan,Shizuoka,Yaizu,1
+Asia,Japan,Shizuoka,Shizuoka,3
+Asia,Japan,Shizuoka,Mishima,1
+Asia,Japan,Shizuoka,Iwata,1
+Asia,Japan,Shizuoka,Handayama,2
+Asia,Japan,Shizuoka,Atami,1
+Asia,Japan,Tochigi,Kaminokawa,1
+Asia,Japan,Tokyo,Urayasu,233
+Asia,Japan,Tokyo,Tokyo,587
+Asia,Japan,Tokyo,Tachikawa,4
+Asia,Japan,Tokyo,Nishitōkyō,8
+Asia,Japan,Tokyo,Nishi-Tokyo-shi,3
+Asia,Japan,Tokyo,Musashino,5
+Asia,Japan,Tokyo,Motoyoyogichō,93
+Asia,Japan,Tokyo,Mitaka,7
+Asia,Japan,Tokyo,Machida,14
+Asia,Japan,Tokyo,Kunitachi,1
+Asia,Japan,Tokyo,Komae,12
+Asia,Japan,Tokyo,Koganei,3
+Asia,Japan,Tokyo,Kodaira,12
+Asia,Japan,Tokyo,Kiyose,2
+Asia,Japan,Tokyo,Hino,1
+Asia,Japan,Tokyo,Higashiyamato,1
+Asia,Japan,Tokyo,Higashimurayama,1
+Asia,Japan,Tokyo,Higashikurume,3
+Asia,Japan,Tokyo,Hatsudai,73
+Asia,Japan,Tokyo,Hamura,5
+Asia,Japan,Tokyo,Hachiōji,8
+Asia,Japan,Tokyo,Fuchū,8
+Asia,Japan,Tokyo,Chōfu,6
+Asia,Japan,Tokyo,Akiruno,1
+Asia,Japan,Tottori,Tottori,1
+Asia,Japan,Yamaguchi,Hōfu,1
+Asia,Japan,Yamanashi,Uenohara,2
+Asia,Japan,Yamanashi,Kōfu,1
+Asia,Japan,Yamanashi,Kai,1
+Asia,Jordan,Amman,Amman,1
+Asia,Kazakhstan,Almaty,Almaty,11
+Asia,Kazakhstan,Astana,Astana,2
+Asia,Lebanon,Beyrouth,Beirut,1
+Asia,Malaysia,Johor,Muar,2
+Asia,Malaysia,Johor,Kluang,3
+Asia,Malaysia,Johor,Johor Bahru,5
+Asia,Malaysia,Johor,Batu Pahat,3
+Asia,Malaysia,Johor,Bakri,1
+Asia,Malaysia,Kedah,Kulim,1
+Asia,Malaysia,Kedah,Jitra,1
+Asia,Malaysia,Kuala Lumpur,Kuala Lumpur,127
+Asia,Malaysia,Melaka,Malacca,4
+Asia,Malaysia,Negeri Sembilan,Seremban,2
+Asia,Malaysia,Penang,Kampung Sungai Ara,2
+Asia,Malaysia,Penang,George Town,3
+Asia,Malaysia,Penang,Bukit Mertajam,2
+Asia,Malaysia,Putrajaya,Putrajaya,6
+Asia,Malaysia,Sabah,Kota Kinabalu,1
+Asia,Malaysia,Selangor,Shah Alam,34
+Asia,Malaysia,Selangor,Sepang,1
+Asia,Malaysia,Selangor,Rawang,2
+Asia,Malaysia,Selangor,Putra Heights,4
+Asia,Malaysia,Selangor,Petaling Jaya,30
+Asia,Malaysia,Selangor,Klang,8
+Asia,Malaysia,Selangor,Kampung Baru Subang,2
+Asia,Malaysia,Selangor,Kampung Baru Balakong,7
+Asia,Malaysia,Selangor,Banting,1
+Asia,Maldives,Kaafu Atoll,Male,1
+Asia,Nepal,Lumbini Province,Butwāl,1
+Asia,Philippines,Autonomous Region in Muslim Mindanao,Wao,1
+Asia,Philippines,Calabarzon,Tanauan,1
+Asia,Philippines,Calabarzon,Muntinlupa,1
+Asia,Philippines,Calabarzon,Majayjay,1
+Asia,Philippines,Calabarzon,Lipa City,1
+Asia,Philippines,Calabarzon,Dasmariñas,2
+Asia,Philippines,Calabarzon,Calamba,4
+Asia,Philippines,Calabarzon,Cabuyao,1
+Asia,Philippines,Calabarzon,Batangas,1
+Asia,Philippines,Calabarzon,Antipolo,1
+Asia,Philippines,Central Luzon,San Miguel,1
+Asia,Philippines,Central Luzon,Malolos,1
+Asia,Philippines,Central Luzon,Angeles City,1
+Asia,Philippines,Central Visayas,Cebu City,1
+Asia,Philippines,Metro Manila,Quezon City,9
+Asia,Philippines,Metro Manila,Pasig City,2
+Asia,Philippines,Metro Manila,Paranaque City,12
+Asia,Philippines,Metro Manila,Makati City,2
+Asia,Philippines,Metro Manila,Las Piñas,2
+Asia,Philippines,Soccsksargen,General Santos,1
+Asia,Saudi Arabia,Eastern Province,Dammam,1
+Asia,Saudi Arabia,Mecca Region,Mecca,1
+Asia,Saudi Arabia,Riyadh Region,Riyadh,2
+Asia,Singapore,,Woodlands,31
+Asia,Singapore,,Singapore,431
+Asia,Singapore,,Punggol,17
+Asia,Singapore,,Marine Parade,6
+Asia,Singapore,,Kampong Pasir Ris,13
+Asia,Singapore,,Jurong Town,16
+Asia,South Korea,Chungcheongnam-do,Cheonan,1
+Asia,South Korea,Gyeonggi-do,Suwon,1
+Asia,South Korea,Gyeonggi-do,Seongnam-si,1
+Asia,South Korea,Gyeonggi-do,Goyang-si,1
+Asia,South Korea,Incheon,Incheon,1
+Asia,South Korea,Jeollanam-do,Naju,1
+Asia,South Korea,Seoul,Seoul,2
+Asia,South Korea,Seoul,Paripark,1
+Asia,South Korea,Seoul,Gangseo-gu,1
+Asia,Sri Lanka,Western,Colombo,1
+Asia,Taiwan,Taipei,Yingge,2
+Asia,Taiwan,Taipei,Xizhi,3
+Asia,Taiwan,Taipei,Xindian,6
+Asia,Taiwan,Taipei,Shulin,2
+Asia,Taiwan,Taipei,Jiufen,1
+Asia,Taiwan,Taipei,Banqiao,39
+Asia,Taiwan,Taiwan,Zhubei,1
+Asia,Taiwan,Taiwan,Yuanlin,1
+Asia,Taiwan,Taiwan,Yongkang,1
+Asia,Taiwan,Taiwan,Yilan,1
+Asia,Taiwan,Taiwan,Taoyuan City,36
+Asia,Taiwan,Taiwan,Taoyuan,2
+Asia,Taiwan,Taiwan,Taitung,1
+Asia,Taiwan,Taiwan,Taipei,151
+Asia,Taiwan,Taiwan,Tainan,11
+Asia,Taiwan,Taiwan,Taichung,19
+Asia,Taiwan,Taiwan,Pingtung,2
+Asia,Taiwan,Taiwan,Neihu,6
+Asia,Taiwan,Taiwan,Keelung,6
+Asia,Taiwan,Taiwan,Jiayi Shi,1
+Asia,Taiwan,Taiwan,Hsinchu,10
+Asia,Taiwan,Taiwan,Douliu,1
+Asia,Taiwan,Taiwan,Donggang,2
+Asia,Taiwan,Taiwan,Chang-hua,3
+Asia,Taiwan,Taiwan,Bade,2
+Asia,Taiwan,Takao,Kaohsiung,9
+Asia,Taiwan,Takao,Fengshan,7
+Asia,Thailand,Bangkok,Bangkok,5
+Asia,Thailand,Chiang Mai,Chiang Mai,1
+Asia,Thailand,Chon Buri,Ban Talat Bueng,1
+Asia,Thailand,Samut Sakhon,Krathum Baen,1
+Asia,Turkey,Istanbul,Umraniye,6
+Asia,Turkey,Istanbul,Maltepe,1
+Asia,Turkey,Istanbul,Istanbul,8
+Asia,Turkey,Istanbul,Bağcılar,1
+Asia,Turkey,Manisa,Manisa,1
+Asia,United Arab Emirates,Dubai,Dubai,5
+Asia,Vietnam,Da Nang,Da Nang,1
+Europe,Albania,Tirana,Tirana,1
+Europe,Austria,Burgenland,Neudörfl,1
+Europe,Austria,Lower Austria,Wilhelmsburg,1
+Europe,Austria,Lower Austria,Wiener Neustadt,1
+Europe,Austria,Lower Austria,Tulln,1
+Europe,Austria,Lower Austria,Traiskirchen,2
+Europe,Austria,Lower Austria,Strasshof an der Nordbahn,1
+Europe,Austria,Lower Austria,Stockerau,1
+Europe,Austria,Lower Austria,Schwechat,1
+Europe,Austria,Lower Austria,Sankt Pölten,3
+Europe,Austria,Lower Austria,Neunkirchen,2
+Europe,Austria,Lower Austria,Mödling,1
+Europe,Austria,Lower Austria,Krems an der Donau,1
+Europe,Austria,Lower Austria,Kottingbrunn,1
+Europe,Austria,Lower Austria,Korneuburg,3
+Europe,Austria,Lower Austria,Guntramsdorf,1
+Europe,Austria,Lower Austria,Gänserndorf,1
+Europe,Austria,Lower Austria,Ebreichsdorf,1
+Europe,Austria,Lower Austria,Deutsch-Wagram,1
+Europe,Austria,Lower Austria,Brunn am Gebirge,1
+Europe,Austria,Lower Austria,Baden,4
+Europe,Austria,Salzburg,Salzburg,1
+Europe,Austria,Styria,Voitsberg,1
+Europe,Austria,Styria,Haselsdorfberg,1
+Europe,Austria,Styria,Graz,95
+Europe,Austria,Styria,Bad Aussee,1
+Europe,Austria,Tyrol,Wörgl,1
+Europe,Austria,Tyrol,Völs,1
+Europe,Austria,Upper Austria,Sumeding,1
+Europe,Austria,Upper Austria,Steyr,1
+Europe,Austria,Upper Austria,Linz,1
+Europe,Austria,Upper Austria,Leonding,1
+Europe,Austria,Upper Austria,Lembach im Mühlkreis,1
+Europe,Austria,Upper Austria,Grein,1
+Europe,Austria,Vienna,Vienna,97
+Europe,Austria,Vorarlberg,Bregenz,1
+Europe,Belgium,Brussels Capital,Brussels,4
+Europe,Belgium,Brussels Capital,Auderghem,1
+Europe,Belgium,Flanders,Zaventem,1
+Europe,Belgium,Flanders,Mechelen,2
+Europe,Belgium,Flanders,Hasselt,1
+Europe,Bulgaria,Blagoevgrad,Petrich,1
+Europe,Bulgaria,Blagoevgrad,Blagoevgrad,2
+Europe,Bulgaria,Burgas,Burgas,2
+Europe,Bulgaria,Gabrovo,Tryavna,1
+Europe,Bulgaria,Gabrovo,Gabrovo,1
+Europe,Bulgaria,Haskovo,Haskovo,1
+Europe,Bulgaria,Pazardzhik,Peshtera,1
+Europe,Bulgaria,Pernik,Pernik,4
+Europe,Bulgaria,Pleven,Pleven,6
+Europe,Bulgaria,Plovdiv,Plovdiv,8
+Europe,Bulgaria,Ruse,Ruse,1
+Europe,Bulgaria,Sofia,Samokov,2
+Europe,Bulgaria,Sofia,Elin Pelin,3
+Europe,Bulgaria,Sofia,Dolna Banya,1
+Europe,Bulgaria,Sofia,Bozhurishte,1
+Europe,Bulgaria,Sofia-Capital,Sofia,356
+Europe,Bulgaria,Stara Zagora,Stara Zagora,1
+Europe,Bulgaria,Varna,Varna,14
+Europe,Bulgaria,Veliko Tarnovo,Veliko Tŭrnovo,1
+Europe,Bulgaria,Veliko Tarnovo,Lyaskovets,1
+Europe,Croatia,Primorje-Gorski Kotar,Rijeka,2
+Europe,Croatia,Zagreb,Zagreb,3
+Europe,Cyprus,Pafos,Paphos,1
+Europe,Czechia,Central Bohemia,Vrané nad Vltavou,3
+Europe,Czechia,Central Bohemia,Úvaly,1
+Europe,Czechia,Central Bohemia,Řitonice,1
+Europe,Czechia,Central Bohemia,Říčany,2
+Europe,Czechia,Central Bohemia,Kutná Hora,1
+Europe,Czechia,Central Bohemia,Kolín,1
+Europe,Czechia,Central Bohemia,Klínec,2
+Europe,Czechia,Central Bohemia,Jesenice,2
+Europe,Czechia,Central Bohemia,Čisovice,1
+Europe,Czechia,Central Bohemia,Český Brod,1
+Europe,Czechia,Jihočeský kraj,Ražice,4
+Europe,Czechia,Jihočeský kraj,Podolí,33
+Europe,Czechia,Karlovarský kraj,Kraslice,1
+Europe,Czechia,Královéhradecký kraj,Hradec Králové,1
+Europe,Czechia,Moravskoslezský,Ostrava,8
+Europe,Czechia,Moravskoslezský,Karviná,1
+Europe,Czechia,Moravskoslezský,Frýdek-Místek,1
+Europe,Czechia,Olomoucký,Olšany,1
+Europe,Czechia,Pardubický,Pardubice,1
+Europe,Czechia,Plzeň Region,Pilsen,1
+Europe,Czechia,Prague,Prague,95
+Europe,Czechia,Prague,Lahovice,6
+Europe,Czechia,Ústecký kraj,Vršovice,2
+Europe,Czechia,Ústecký kraj,Kunratice,5
+Europe,Czechia,Vysočina,Moravské Budějovice,1
+Europe,Czechia,Zlín,Rožnov pod Radhoštěm,1
+Europe,Denmark,Capital Region,Lillerød,1
+Europe,Denmark,Capital Region,Frederiksberg,1
+Europe,Denmark,Capital Region,Copenhagen,3
+Europe,Denmark,Central Jutland,Horsens,1
+Europe,Denmark,South Denmark,Odense,1
+Europe,Denmark,Zealand,Roskilde,2
+Europe,Denmark,Zealand,Jyderup,1
+Europe,Finland,Kymenlaakso,Hamina,1
+Europe,Finland,Paijat-Hame,Lahti,2
+Europe,Finland,Pirkanmaa,Ylöjärvi,1
+Europe,Finland,Pirkanmaa,Tampere,2
+Europe,Finland,Uusimaa,Vantaa,13
+Europe,Finland,Uusimaa,Nurmijärvi,11
+Europe,Finland,Uusimaa,Kauniainen,30
+Europe,Finland,Uusimaa,Helsinki,46
+Europe,Finland,Uusimaa,Espoo,5
+Europe,France,Auvergne-Rhône-Alpes,Lyon,1
+Europe,France,Auvergne-Rhône-Alpes,Grenoble,2
+Europe,France,Grand Est,Strasbourg,1
+Europe,France,Île-de-France,Paris,9
+Europe,France,Île-de-France,Issy-les-Moulineaux,6
+Europe,France,Île-de-France,Épinay-sur-Orge,1
+Europe,France,Île-de-France,Courcouronnes,1
+Europe,France,Île-de-France,Châtillon,1
+Europe,France,Provence-Alpes-Côte d'Azur,Saint-Laurent-du-Var,1
+Europe,France,Provence-Alpes-Côte d'Azur,Marseille,1
+Europe,France,Provence-Alpes-Côte d'Azur,Carpentras,1
+Europe,Germany,Baden-Wurttemberg,Wildberg,1
+Europe,Germany,Baden-Wurttemberg,Stuttgart,27
+Europe,Germany,Baden-Wurttemberg,Steinenbronn,1
+Europe,Germany,Baden-Wurttemberg,Sindelfingen,7
+Europe,Germany,Baden-Wurttemberg,Reutlingen,1
+Europe,Germany,Baden-Wurttemberg,Pforzheim,2
+Europe,Germany,Baden-Wurttemberg,Oberboihingen,1
+Europe,Germany,Baden-Wurttemberg,Neuffen,1
+Europe,Germany,Baden-Wurttemberg,Nagold,1
+Europe,Germany,Baden-Wurttemberg,Kirchheim unter Teck,2
+Europe,Germany,Baden-Wurttemberg,Karlsruhe,10
+Europe,Germany,Baden-Wurttemberg,Herrenberg,2
+Europe,Germany,Baden-Wurttemberg,Freiburg,1
+Europe,Germany,Baden-Wurttemberg,Calw,1
+Europe,Germany,Baden-Wurttemberg,Böblingen,95
+Europe,Germany,Baden-Wurttemberg,Balingen,1
+Europe,Germany,Baden-Wurttemberg,Achern,1
+Europe,Germany,Bavaria,Nürnberg,1
+Europe,Germany,Bavaria,Munich,11
+Europe,Germany,Bavaria,Landshut,1
+Europe,Germany,Bavaria,Augsburg,1
+Europe,Germany,Berlin,Berlin,3
+Europe,Germany,Bremen,Bremen,1
+Europe,Germany,Hesse,Mörfelden-Walldorf,1
+Europe,Germany,Hesse,Limburg an der Lahn,1
+Europe,Germany,Hesse,Frankfurt am Main,328
+Europe,Germany,Hesse,Dillenburg,1
+Europe,Germany,Hesse,Bad Nauheim,1
+Europe,Germany,Lower Saxony,Hannover,2
+Europe,Germany,Lower Saxony,Bad Essen,1
+Europe,Germany,North Rhine-Westphalia,Wuppertal,1
+Europe,Germany,North Rhine-Westphalia,Warburg,1
+Europe,Germany,North Rhine-Westphalia,Ratingen,1
+Europe,Germany,North Rhine-Westphalia,Mülheim,2
+Europe,Germany,North Rhine-Westphalia,Lindlar,1
+Europe,Germany,North Rhine-Westphalia,Köln,7
+Europe,Germany,North Rhine-Westphalia,Essen,3
+Europe,Germany,North Rhine-Westphalia,Düsseldorf,1
+Europe,Germany,North Rhine-Westphalia,Dortmund,2
+Europe,Germany,North Rhine-Westphalia,Borken,1
+Europe,Germany,North Rhine-Westphalia,Bonn,1
+Europe,Germany,Rheinland-Pfalz,Neuwied,1
+Europe,Germany,Rheinland-Pfalz,Mainz,1
+Europe,Germany,Rheinland-Pfalz,Bausendorf,1
+Europe,Germany,Rheinland-Pfalz,Bad Neuenahr-Ahrweiler,1
+Europe,Germany,Saxony,Leipzig,2
+Europe,Germany,Schleswig-Holstein,Kiel,2
+Europe,Greece,Attica,Spáta,2
+Europe,Greece,Attica,Peristéri,4
+Europe,Greece,Attica,Pérama,1
+Europe,Greece,Attica,Níkaia,1
+Europe,Greece,Attica,Néa Ionía,1
+Europe,Greece,Attica,Maroúsi,6
+Europe,Greece,Attica,Koropí,1
+Europe,Greece,Attica,Keratsíni,2
+Europe,Greece,Attica,Glyfáda,1
+Europe,Greece,Attica,Gérakas,1
+Europe,Greece,Attica,Galátsi,1
+Europe,Greece,Attica,Chaïdári,1
+Europe,Greece,Attica,Athens,28
+Europe,Greece,Attica,Argyroúpoli,1
+Europe,Greece,Attica,Agios Dimitrios,1
+Europe,Greece,Attica,Ágioi Anárgyroi,1
+Europe,Greece,Attica,Agía Paraskeví,1
+Europe,Greece,Central Macedonia,Thessaloníki,3
+Europe,Hungary,Budapest,Budapest,4
+Europe,Hungary,Vas,Sárvár,1
+Europe,Ireland,Connacht,Westport,1
+Europe,Ireland,Connacht,Tuam,6
+Europe,Ireland,Connacht,Sligo,3
+Europe,Ireland,Connacht,Oranmore,1
+Europe,Ireland,Connacht,Loughrea,2
+Europe,Ireland,Connacht,Galway,35
+Europe,Ireland,Connacht,Castlebar,1
+Europe,Ireland,Connacht,Carrick-on-Shannon,1
+Europe,Ireland,Connacht,Athenry,9
+Europe,Ireland,Leinster,Wexford,1
+Europe,Ireland,Leinster,Tallaght,3
+Europe,Ireland,Leinster,Swords,1
+Europe,Ireland,Leinster,Sandyford,2
+Europe,Ireland,Leinster,Saggart,1
+Europe,Ireland,Leinster,Portlaoise,2
+Europe,Ireland,Leinster,Palmerstown,1
+Europe,Ireland,Leinster,Navan,1
+Europe,Ireland,Leinster,Naas,4
+Europe,Ireland,Leinster,Maynooth,4
+Europe,Ireland,Leinster,Lucan,2
+Europe,Ireland,Leinster,Laytown,1
+Europe,Ireland,Leinster,Kilkenny,1
+Europe,Ireland,Leinster,Kildare,2
+Europe,Ireland,Leinster,Kells,2
+Europe,Ireland,Leinster,Hartstown,1
+Europe,Ireland,Leinster,Fairview,21
+Europe,Ireland,Leinster,Enniscorthy,1
+Europe,Ireland,Leinster,Dundalk,2
+Europe,Ireland,Leinster,Dún Laoghaire,1
+Europe,Ireland,Leinster,Dublin,222
+Europe,Ireland,Leinster,Droichead Nua,2
+Europe,Ireland,Leinster,Drogheda,1
+Europe,Ireland,Leinster,Chapelizod,1
+Europe,Ireland,Leinster,Celbridge,1
+Europe,Ireland,Leinster,Castleknock,1
+Europe,Ireland,Leinster,Carlow,7
+Europe,Ireland,Leinster,Cabra,5
+Europe,Ireland,Leinster,Bray,1
+Europe,Ireland,Leinster,Blanchardstown,1
+Europe,Ireland,Leinster,Blackrock,1
+Europe,Ireland,Leinster,Ballyboden,2
+Europe,Ireland,Leinster,Balally,1
+Europe,Ireland,Leinster,Athy,1
+Europe,Ireland,Leinster,Athlone,4
+Europe,Ireland,Leinster,An Ros,1
+Europe,Ireland,Munster,Waterford,1
+Europe,Ireland,Munster,Mallow,1
+Europe,Ireland,Munster,Limerick,1
+Europe,Ireland,Munster,Ennis,3
+Europe,Ireland,Munster,Cork,10
+Europe,Ireland,Munster,Cill Airne,1
+Europe,Ireland,Munster,Borrisokane,1
+Europe,Ireland,Munster,Bandon,1
+Europe,Ireland,Ulster,Letterkenny,2
+Europe,Italy,Apulia,Brindisi,1
+Europe,Italy,Calabria,Cosenza,1
+Europe,Italy,Campania,Naples,3
+Europe,Italy,Campania,Caserta,1
+Europe,Italy,Emilia-Romagna,Vignola,1
+Europe,Italy,Emilia-Romagna,Parma,1
+Europe,Italy,Emilia-Romagna,Bologna,3
+Europe,Italy,Friuli Venezia Giulia,Trieste,1
+Europe,Italy,Lazio,Rome,8
+Europe,Italy,Lazio,Acilia-Castel Fusano-Ostia Antica,2
+Europe,Italy,Liguria,Genoa,3
+Europe,Italy,Lombardy,Monza,1
+Europe,Italy,Lombardy,Milan,18
+Europe,Italy,Lombardy,Figino,1
+Europe,Italy,Lombardy,Cinisello Balsamo,1
+Europe,Italy,Lombardy,Bergamo,2
+Europe,Italy,Piedmont,Turin,1
+Europe,Italy,Piedmont,Asti,1
+Europe,Italy,Tuscany,Pisa,1
+Europe,Italy,Tuscany,Florence,2
+Europe,Italy,Veneto,Padova,1
+Europe,Lithuania,Vilnius,Vilnius,2
+Europe,Luxembourg,Luxembourg,Luxembourg,1
+Europe,Netherlands,Flevoland,Almere Stad,1
+Europe,Netherlands,North Brabant,Berlicum,1
+Europe,Netherlands,North Holland,Hoofddorp,1
+Europe,Netherlands,North Holland,Amsterdam,7
+Europe,Netherlands,North Holland,Alkmaar,1
+Europe,Netherlands,North Holland,Aalsmeerderbrug,1
+Europe,Netherlands,Overijssel,Wanneperveen,1
+Europe,Netherlands,South Holland,Rotterdam,1
+Europe,Netherlands,South Holland,Oud-Beijerland,1
+Europe,Netherlands,South Holland,Naaldwijk,3
+Europe,Netherlands,Utrecht,Wijk bij Duurstede,1
+Europe,Netherlands,Utrecht,Soestduinen,2
+Europe,Norway,Akershus,Lysaker,2
+Europe,Norway,Oslo,Oslo,1
+Europe,Norway,Viken,Lysaker,1
+Europe,Poland,Greater Poland,Solec,2
+Europe,Poland,Greater Poland,Słupca,1
+Europe,Poland,Greater Poland,Puszczykowo,1
+Europe,Poland,Greater Poland,Poznań,128
+Europe,Poland,Greater Poland,Piła,2
+Europe,Poland,Greater Poland,Ostrów Wielkopolski,1
+Europe,Poland,Kujawsko-Pomorskie,Osiek,1
+Europe,Poland,Łódź Voivodeship,Łódź,2
+Europe,Poland,Lower Silesia,Wysoka,1
+Europe,Poland,Lower Silesia,Wrocław,117
+Europe,Poland,Lower Silesia,Trzebnica,3
+Europe,Poland,Lower Silesia,Smolec,1
+Europe,Poland,Lower Silesia,Radwanice,2
+Europe,Poland,Lower Silesia,Oława,1
+Europe,Poland,Lower Silesia,Lubin,1
+Europe,Poland,Lower Silesia,Jelenia Góra,1
+Europe,Poland,Lower Silesia,Gałów,1
+Europe,Poland,Mazovia,Wola,96
+Europe,Poland,Mazovia,Warsaw,188
+Europe,Poland,Mazovia,Ursynów,54
+Europe,Poland,Mazovia,Starowiskitki,1
+Europe,Poland,Mazovia,Stara Biała,1
+Europe,Poland,Mazovia,Rembertów,5
+Europe,Poland,Mazovia,Radom,3
+Europe,Poland,Mazovia,Praga Południe,1
+Europe,Poland,Mazovia,Piaseczno,2
+Europe,Poland,Mazovia,Ożarów Mazowiecki,1
+Europe,Poland,Mazovia,Ochota,1
+Europe,Poland,Mazovia,Mokotów,78
+Europe,Poland,Mazovia,Kozienice,1
+Europe,Poland,Mazovia,Grodzisk Mazowiecki,1
+Europe,Poland,Mazovia,Bielany,2
+Europe,Poland,Mazovia,Białołeka,1
+Europe,Poland,Mazovia,Bemowo,2
+Europe,Poland,Pomerania,Gdynia,1
+Europe,Poland,Pomerania,Dębnica Kaszubska,1
+Europe,Poland,Silesia,Tychy,1
+Europe,Poland,Silesia,Sosnowiec,1
+Europe,Poland,Silesia,Rybarzowice,1
+Europe,Poland,Silesia,Katowice,2
+Europe,Poland,Silesia,Jaworzno,1
+Europe,Poland,Silesia,Czechowice-Dziedzice,1
+Europe,Poland,Silesia,Bielsko-Biala,1
+Europe,Poland,Subcarpathia,Mielec,8
+Europe,Poland,Warmia-Masuria,Gierłoż,1
+Europe,Poland,West Pomerania,Szczecin,7
+Europe,Portugal,Aveiro,Pampilhosa,1
+Europe,Portugal,Aveiro,Luso,1
+Europe,Portugal,Évora,Vendas Novas,1
+Europe,Portugal,Leiria,Leiria,1
+Europe,Portugal,Lisbon,Póvoa de Santa Iria,1
+Europe,Portugal,Lisbon,Odivelas,1
+Europe,Portugal,Lisbon,Lisbon,21
+Europe,Portugal,Porto,Porto,3
+Europe,Portugal,Setúbal,Corroios,1
+Europe,Romania,Arges,Piteşti,2
+Europe,Romania,Arges,Câmpulung,1
+Europe,Romania,Bacău County,Bacău,1
+Europe,Romania,Brașov,Braşov,3
+Europe,Romania,Brașov County,Braşov,10
+Europe,Romania,București,Odăi,11
+Europe,Romania,București,Bucuresti,12
+Europe,Romania,București,Bucharest,369
+Europe,Romania,Buzău,Gherăseni,1
+Europe,Romania,Cluj County,Cluj-Napoca,13
+Europe,Romania,Constanța,Năvodari,1
+Europe,Romania,Covasna County,Sfântu Gheorghe,1
+Europe,Romania,Dâmbovița,Târgovişte,2
+Europe,Romania,Dâmbovița,Găeşti,1
+Europe,Romania,Dâmbovița County,Târgovişte,2
+Europe,Romania,Dâmbovița County,Butimanu,1
+Europe,Romania,Dolj,Craiova,5
+Europe,Romania,Galați,Galaţi,2
+Europe,Romania,Galați County,Galaţi,3
+Europe,Romania,Giurgiu County,Mihăileşti,1
+Europe,Romania,Iași,Târgu Frumos,1
+Europe,Romania,Iași County,Iaşi,6
+Europe,Romania,Ilfov,Voluntari,7
+Europe,Romania,Ilfov,Vidra,1
+Europe,Romania,Ilfov,Tamași,1
+Europe,Romania,Ilfov,Roșu,6
+Europe,Romania,Ilfov,Popeşti-Leordeni,16
+Europe,Romania,Ilfov,Otopeni,12
+Europe,Romania,Ilfov,Mogoşoaia,1
+Europe,Romania,Ilfov,Jilava,1
+Europe,Romania,Ilfov,Fundeni,1
+Europe,Romania,Ilfov,Dudu,3
+Europe,Romania,Ilfov,Domnești,4
+Europe,Romania,Ilfov,Dobroeşti,1
+Europe,Romania,Ilfov,Crețuleasca,1
+Europe,Romania,Ilfov,Corbeanca,3
+Europe,Romania,Ilfov,Clinceni,1
+Europe,Romania,Ilfov,Buftea,1
+Europe,Romania,Ilfov,Bragadiru,1
+Europe,Romania,Ilfov,Berceni,1
+Europe,Romania,Ilfov,Baloteşti,3
+Europe,Romania,Maramureş,Baia Mare,1
+Europe,Romania,Neamț County,Roman,1
+Europe,Romania,Prahova,Vălenii de Munte,1
+Europe,Romania,Prahova,Ploieşti,29
+Europe,Romania,Prahova,Câmpina,2
+Europe,Romania,Prahova,Brazii de Sus,1
+Europe,Romania,Teleorman,Alexandria,1
+Europe,Romania,Teleorman County,Alexandria,1
+Europe,Romania,Timiș County,Timişoara,7
+Europe,Romania,Vâlcea County,Râmnicu Vâlcea,1
+Europe,Slovakia,Banská Bystrica Region,Lučenec,1
+Europe,Slovakia,Banská Bystrica Region,Dudince,1
+Europe,Slovakia,Banská Bystrica Region,Banská Štiavnica,1
+Europe,Slovakia,Banská Bystrica Region,Banská Bystrica,1
+Europe,Slovakia,Bratislava Region,Zohor,1
+Europe,Slovakia,Bratislava Region,Senec,1
+Europe,Slovakia,Bratislava Region,Pezinok,1
+Europe,Slovakia,Bratislava Region,Malacky,1
+Europe,Slovakia,Bratislava Region,Hrubá Borša,1
+Europe,Slovakia,Bratislava Region,Dunajská Lužná,2
+Europe,Slovakia,Bratislava Region,Chorvástky Grob - Čierna Voda,1
+Europe,Slovakia,Bratislava Region,Bratislava,98
+Europe,Slovakia,Bratislavský Kraj,Dunajská Lužná,1
+Europe,Slovakia,Bratislavský Kraj,Bratislava,44
+Europe,Slovakia,Košice Region,Košice,3
+Europe,Slovakia,Košický kraj,Košice,2
+Europe,Slovakia,Nitra Region,Nové Zámky,3
+Europe,Slovakia,Nitra Region,Nitra,3
+Europe,Slovakia,Nitra Region,Levice,1
+Europe,Slovakia,Nitriansky kraj,Topoľčany,1
+Europe,Slovakia,Nitriansky kraj,Šaľa,1
+Europe,Slovakia,Nitriansky kraj,Nitra,1
+Europe,Slovakia,Prešov Region,Vranov nad Topľou,1
+Europe,Slovakia,Prešov Region,Stropkov,1
+Europe,Slovakia,Prešovský kraj,Vranov nad Topľou,1
+Europe,Slovakia,Prešovský kraj,Prešov,1
+Europe,Slovakia,Trenčín Region,Trenčín,1
+Europe,Slovakia,Trenčín Region,Myjava,1
+Europe,Slovakia,Trenčín Region,Bojnice,1
+Europe,Slovakia,Trnava,Gbely,1
+Europe,Slovakia,Trnava Region,Veľký Meder,1
+Europe,Slovakia,Trnava Region,Trnava,3
+Europe,Slovakia,Trnava Region,Hlohovec,1
+Europe,Slovakia,Trnava Region,Galanta,1
+Europe,Slovenia,Kranj,Kranj,1
+Europe,Slovenia,Maribor,Maribor,1
+Europe,Spain,Andalusia,Sevilla,3
+Europe,Spain,Aragon,Zaragoza,3
+Europe,Spain,Canary Islands,Las Palmas de Gran Canaria,2
+Europe,Spain,Castille and León,León,2
+Europe,Spain,Castille-La Mancha,Talavera de la Reina,1
+Europe,Spain,Castille-La Mancha,Azuqueca de Henares,1
+Europe,Spain,Catalonia,Tarragona,1
+Europe,Spain,Catalonia,Santa Coloma de Gramenet,1
+Europe,Spain,Catalonia,Rubí,1
+Europe,Spain,Catalonia,Mataró,1
+Europe,Spain,Catalonia,L'Hospitalet de Llobregat,1
+Europe,Spain,Catalonia,El Prat de Llobregat,1
+Europe,Spain,Catalonia,Cornellà de Llobregat,1
+Europe,Spain,Catalonia,Barcelona,7
+Europe,Spain,Madrid,Villaviciosa de Odón,1
+Europe,Spain,Madrid,Tres Cantos,1
+Europe,Spain,Madrid,Rivas-Vaciamadrid,1
+Europe,Spain,Madrid,Móstoles,1
+Europe,Spain,Madrid,Madrid,34
+Europe,Spain,Madrid,Las Rozas de Madrid,9
+Europe,Spain,Madrid,Getafe,2
+Europe,Spain,Madrid,Fuente el Saz,1
+Europe,Spain,Madrid,Collado-Villalba,2
+Europe,Spain,Madrid,Bustarviejo,1
+Europe,Spain,Madrid,Alcorcón,1
+Europe,Spain,Madrid,Alcobendas,2
+Europe,Spain,Madrid,Alcalá de Henares,1
+Europe,Spain,Valencia,Valencia,2
+Europe,Sweden,Stockholm,Stockholm,7
+Europe,Sweden,Stockholm,Solna,1
+Europe,Sweden,Stockholm,Jakobsberg,1
+Europe,Sweden,Västra Götaland,Göteborg,1
+Europe,Switzerland,Zurich,Zürich,7
+Europe,Switzerland,Zurich,Wallisellen,1
+Europe,Switzerland,Zurich,Oberengstringen,1
+Europe,United Kingdom,England,Yeovil,1
+Europe,United Kingdom,England,Wrawby,1
+Europe,United Kingdom,England,Worthing,1
+Europe,United Kingdom,England,Wokingham,9
+Europe,United Kingdom,England,Woking,1
+Europe,United Kingdom,England,Winnersh,13
+Europe,United Kingdom,England,Winchester,1
+Europe,United Kingdom,England,Wigan,1
+Europe,United Kingdom,England,Wickwar,1
+Europe,United Kingdom,England,Weymouth,1
+Europe,United Kingdom,England,Weybridge,1
+Europe,United Kingdom,England,West Ham,1
+Europe,United Kingdom,England,Waterbeach,1
+Europe,United Kingdom,England,Warrington,1
+Europe,United Kingdom,England,Wandsworth,1
+Europe,United Kingdom,England,Walsall,1
+Europe,United Kingdom,England,Uckfield,1
+Europe,United Kingdom,England,Trowbridge,2
+Europe,United Kingdom,England,Tottenham,1
+Europe,United Kingdom,England,Titchfield,1
+Europe,United Kingdom,England,Tilehurst,1
+Europe,United Kingdom,England,Theale,1
+Europe,United Kingdom,England,Thatcham,1
+Europe,United Kingdom,England,Teignmouth,1
+Europe,United Kingdom,England,Swindon,3
+Europe,United Kingdom,England,Sutton Coldfield,1
+Europe,United Kingdom,England,Sunbury-on-Thames,1
+Europe,United Kingdom,England,Stoke Gifford,3
+Europe,United Kingdom,England,Stevenage,1
+Europe,United Kingdom,England,St Helens,1
+Europe,United Kingdom,England,St Albans,1
+Europe,United Kingdom,England,Southport,1
+Europe,United Kingdom,England,Southend-on-Sea,1
+Europe,United Kingdom,England,Southampton,2
+Europe,United Kingdom,England,Southall,2
+Europe,United Kingdom,England,Snodland,9
+Europe,United Kingdom,England,Slough,5
+Europe,United Kingdom,England,Shirley,1
+Europe,United Kingdom,England,Sheffield,7
+Europe,United Kingdom,England,Shadwell,1
+Europe,United Kingdom,England,Sandhurst,1
+Europe,United Kingdom,England,Salisbury,2
+Europe,United Kingdom,England,Ruislip,1
+Europe,United Kingdom,England,Royal Tunbridge Wells,2
+Europe,United Kingdom,England,Romsey,1
+Europe,United Kingdom,England,Rochdale,1
+Europe,United Kingdom,England,Remenham,1
+Europe,United Kingdom,England,Redditch,1
+Europe,United Kingdom,England,Reading,27
+Europe,United Kingdom,England,Rayne,1
+Europe,United Kingdom,England,Portsmouth,3
+Europe,United Kingdom,England,Portishead,1
+Europe,United Kingdom,England,Poplar,1
+Europe,United Kingdom,England,Plymouth,8
+Europe,United Kingdom,England,Petersfield,1
+Europe,United Kingdom,England,Oldham,1
+Europe,United Kingdom,England,Old Basing,1
+Europe,United Kingdom,England,Nottingham,3
+Europe,United Kingdom,England,Normandy,1
+Europe,United Kingdom,England,Norbiton,1
+Europe,United Kingdom,England,Newton Abbot,1
+Europe,United Kingdom,England,Newcastle upon Tyne,1
+Europe,United Kingdom,England,Newbury,60
+Europe,United Kingdom,England,Neston,1
+Europe,United Kingdom,England,Morley,1
+Europe,United Kingdom,England,Milton Keynes,3
+Europe,United Kingdom,England,Middlesbrough,2
+Europe,United Kingdom,England,Marlow,1
+Europe,United Kingdom,England,Mangotsfield,1
+Europe,United Kingdom,England,Manchester,12
+Europe,United Kingdom,England,Lytchett Matravers,2
+Europe,United Kingdom,England,Lydiard Millicent,1
+Europe,United Kingdom,England,Luton,1
+Europe,United Kingdom,England,Loughborough,1
+Europe,United Kingdom,England,London,205
+Europe,United Kingdom,England,Liverpool,14
+Europe,United Kingdom,England,Lincoln,1
+Europe,United Kingdom,England,Letchworth Garden City,1
+Europe,United Kingdom,England,Leighton Buzzard,2
+Europe,United Kingdom,England,Leeds,2
+Europe,United Kingdom,England,Launceston,1
+Europe,United Kingdom,England,Knaphill,1
+Europe,United Kingdom,England,Kingswood,2
+Europe,United Kingdom,England,Kidlington,1
+Europe,United Kingdom,England,Ipswich,1
+Europe,United Kingdom,England,Ilfracombe,1
+Europe,United Kingdom,England,Ilford,2
+Europe,United Kingdom,England,Huntingdon,1
+Europe,United Kingdom,England,Huddersfield,1
+Europe,United Kingdom,England,Hounslow,1
+Europe,United Kingdom,England,High Wycombe,3
+Europe,United Kingdom,England,Henley-on-Thames,1
+Europe,United Kingdom,England,Hemel Hempstead,1
+Europe,United Kingdom,England,Hedge End,1
+Europe,United Kingdom,England,Hayes,1
+Europe,United Kingdom,England,Havant,1
+Europe,United Kingdom,England,Hatfield,1
+Europe,United Kingdom,England,Harrow,3
+Europe,United Kingdom,England,Harpenden,2
+Europe,United Kingdom,England,Halton,1
+Europe,United Kingdom,England,Grays,1
+Europe,United Kingdom,England,Gravesend,2
+Europe,United Kingdom,England,Gosforth,2
+Europe,United Kingdom,England,Gloucester,1
+Europe,United Kingdom,England,Glenfield,1
+Europe,United Kingdom,England,Gillingham,1
+Europe,United Kingdom,England,Folkestone,1
+Europe,United Kingdom,England,Farnham,2
+Europe,United Kingdom,England,Farnborough,2
+Europe,United Kingdom,England,Fareham,2
+Europe,United Kingdom,England,Evesham,2
+Europe,United Kingdom,England,Esher,1
+Europe,United Kingdom,England,Elstead,1
+Europe,United Kingdom,England,Edgware,1
+Europe,United Kingdom,England,Earley,3
+Europe,United Kingdom,England,Dorking,1
+Europe,United Kingdom,England,Dorchester,1
+Europe,United Kingdom,England,Didcot,2
+Europe,United Kingdom,England,Derby,1
+Europe,United Kingdom,England,Croydon,1
+Europe,United Kingdom,England,Coventry,1
+Europe,United Kingdom,England,Colne,1
+Europe,United Kingdom,England,City of Westminster,1
+Europe,United Kingdom,England,City of London,5
+Europe,United Kingdom,England,Chipping Sodbury,1
+Europe,United Kingdom,England,Chippenham,2
+Europe,United Kingdom,England,Chiddingfold,1
+Europe,United Kingdom,England,Chertsey,1
+Europe,United Kingdom,England,Chelmsford,1
+Europe,United Kingdom,England,Chalfont Saint Peter,1
+Europe,United Kingdom,England,Camberley,1
+Europe,United Kingdom,England,Burghfield,1
+Europe,United Kingdom,England,Bristol,47
+Europe,United Kingdom,England,Bridgwater,1
+Europe,United Kingdom,England,Braintree,1
+Europe,United Kingdom,England,Bradwell,1
+Europe,United Kingdom,England,Bradford,1
+Europe,United Kingdom,England,Bracknell,6
+Europe,United Kingdom,England,Bow,1
+Europe,United Kingdom,England,Bognor Regis,6
+Europe,United Kingdom,England,Blandford Forum,1
+Europe,United Kingdom,England,Birmingham,164
+Europe,United Kingdom,England,Billericay,1
+Europe,United Kingdom,England,Bath,1
+Europe,United Kingdom,England,Basingstoke,3
+Europe,United Kingdom,England,Barnsley,1
+Europe,United Kingdom,England,Banbury,1
+Europe,United Kingdom,England,Aylesham,1
+Europe,United Kingdom,England,Aylesbury,2
+Europe,United Kingdom,England,Ashford,1
+Europe,United Kingdom,England,Ascot,1
+Europe,United Kingdom,England,Andover,1
+Europe,United Kingdom,England,Amesbury,2
+Europe,United Kingdom,Northern Ireland,Belfast,1
+Europe,United Kingdom,Scotland,Renfrew,1
+Europe,United Kingdom,Scotland,Newton Mearns,1
+Europe,United Kingdom,Scotland,Motherwell,1
+Europe,United Kingdom,Scotland,Moffat,3
+Europe,United Kingdom,Scotland,Lanark,2
+Europe,United Kingdom,Scotland,Kilmarnock,1
+Europe,United Kingdom,Scotland,Johnstone,1
+Europe,United Kingdom,Scotland,Irvine,2
+Europe,United Kingdom,Scotland,Greenock,3
+Europe,United Kingdom,Scotland,Glasgow,7
+Europe,United Kingdom,Scotland,Erskine,1
+Europe,United Kingdom,Scotland,Edinburgh,3
+Europe,United Kingdom,Scotland,Cumnock,1
+Europe,United Kingdom,Scotland,Bearsden,1
+Europe,United Kingdom,Scotland,Ayr,1
+Europe,United Kingdom,Scotland,Alloa,1
+Europe,United Kingdom,Wales,Swansea,1
+Europe,United Kingdom,Wales,Newport,3
+Europe,United Kingdom,Wales,Merthyr Mawr,1
+Europe,United Kingdom,Wales,Deganwy,1
+Europe,United Kingdom,Wales,Colwyn Bay,1
+Europe,United Kingdom,Wales,Chepstow,1
+Europe,United Kingdom,Wales,Cardiff,3
+Europe,United Kingdom,Wales,Buckley,1
+North America,Belize,Southern District,Placencia,1
+North America,Canada,British Columbia,Vancouver,2
+North America,Canada,Ontario,Vaughan,1
+North America,Canada,Ontario,Uxbridge,1
+North America,Canada,Ontario,Toronto,23
+North America,Canada,Ontario,Richmond Hill,1
+North America,Canada,Ontario,Oakville,2
+North America,Canada,Ontario,Mississauga,8
+North America,Canada,Ontario,Kingston,5
+North America,Canada,Ontario,King,1
+North America,Canada,Ontario,Greenbank,1
+North America,Canada,Ontario,Burlington,1
+North America,Canada,Ontario,Brantford,1
+North America,Canada,Ontario,Brampton,3
+North America,Canada,Ontario,Aurora,1
+North America,Canada,Quebec,Pointe-Claire,2
+North America,Canada,Quebec,Montréal,7
+North America,Canada,Quebec,Laval,1
+North America,Canada,Quebec,Gatineau,1
+North America,Canada,Saskatchewan,Saskatoon,1
+North America,Canada,Saskatchewan,Regina,1
+North America,Costa Rica,Alajuela Province,Zarcero,1
+North America,Costa Rica,Alajuela Province,San Ramón,9
+North America,Costa Rica,Alajuela Province,San Juan,3
+North America,Costa Rica,Alajuela Province,Sabanilla,4
+North America,Costa Rica,Alajuela Province,Río Segundo,4
+North America,Costa Rica,Alajuela Province,Quesada,6
+North America,Costa Rica,Alajuela Province,Orotina,1
+North America,Costa Rica,Alajuela Province,Mercedes,1
+North America,Costa Rica,Alajuela Province,La Tigra,1
+North America,Costa Rica,Alajuela Province,La Fortuna,1
+North America,Costa Rica,Alajuela Province,Guácima,3
+North America,Costa Rica,Alajuela Province,Grecia,6
+North America,Costa Rica,Alajuela Province,Esquipulas,1
+North America,Costa Rica,Alajuela Province,Desamparados,4
+North America,Costa Rica,Alajuela Province,Carrillos,1
+North America,Costa Rica,Alajuela Province,Barrio Jesús,1
+North America,Costa Rica,Alajuela Province,Atenas,2
+North America,Costa Rica,Alajuela Province,Alajuela,40
+North America,Costa Rica,Cartago Province,Turrialba,2
+North America,Costa Rica,Cartago Province,San Rafael,1
+North America,Costa Rica,Cartago Province,San Diego,3
+North America,Costa Rica,Cartago Province,Paraíso,7
+North America,Costa Rica,Cartago Province,Concepción,1
+North America,Costa Rica,Cartago Province,Cartago,27
+North America,Costa Rica,Guanacaste Province,Santa Cruz,1
+North America,Costa Rica,Guanacaste Province,Liberia,1
+North America,Costa Rica,Guanacaste Province,Belén,2
+North America,Costa Rica,Heredia Province,San Pablo,4
+North America,Costa Rica,Heredia Province,San Josecito,2
+North America,Costa Rica,Heredia Province,San Antonio,12
+North America,Costa Rica,Heredia Province,Heredia,92
+North America,Costa Rica,Heredia Province,Ángeles,3
+North America,Costa Rica,Limón Province,Limón,1
+North America,Costa Rica,Puntarenas Province,Quepos,1
+North America,Costa Rica,Puntarenas Province,Puerto Cortés,1
+North America,Costa Rica,Puntarenas Province,Paquera,3
+North America,Costa Rica,Puntarenas Province,Jacó,1
+North America,Costa Rica,Puntarenas Province,Golfito,2
+North America,Costa Rica,Puntarenas Province,Esparza,1
+North America,Costa Rica,Puntarenas Province,Buenos Aires,1
+North America,Costa Rica,San José,Santa Ana,2
+North America,Costa Rica,San José,San Vicente de Moravia,1
+North America,Costa Rica,San José,San Vicente,1
+North America,Costa Rica,San José,San Rafael,7
+North America,Costa Rica,San José,San Pablo,1
+North America,Costa Rica,San José,San Juan,5
+North America,Costa Rica,San José,San José,291
+North America,Costa Rica,San José,San Isidro,4
+North America,Costa Rica,San José,Patarrá,3
+North America,Costa Rica,San José,Palmichal,2
+North America,Costa Rica,San José,Guadalupe,6
+North America,Costa Rica,San José,Escazú,3
+North America,Costa Rica,San José,Desamparados,1
+North America,Costa Rica,San José,Curridabat,5
+North America,Costa Rica,San José,Colón,4
+North America,Costa Rica,San José,Aserrí,1
+North America,Costa Rica,San José,Alajuelita,3
+North America,El Salvador,San Salvador,San Salvador,1
+North America,Mexico,Aguascalientes,Aguascalientes,2
+North America,Mexico,Baja California,Tijuana,1
+North America,Mexico,Baja California Sur,San José del Cabo,1
+North America,Mexico,Baja California Sur,La Paz,2
+North America,Mexico,Chihuahua,Emiliano Zapata,1
+North America,Mexico,Chihuahua,Ciudad Juárez,3
+North America,Mexico,Colima,Tapeixtles,1
+North America,Mexico,Colima,Manzanillo,5
+North America,Mexico,Colima,El Chanal,1
+North America,Mexico,Colima,Colima,9
+North America,Mexico,Colima,Ciudad de Villa de Álvarez,5
+North America,Mexico,Guanajuato,León de los Aldama,146
+North America,Mexico,Guanajuato,Españita,1
+North America,Mexico,Guerrero,Iguala de la Independencia,2
+North America,Mexico,Guerrero,Chilpancingo,1
+North America,Mexico,Guerrero,Acapulco de Juárez,7
+North America,Mexico,Hidalgo,San Marcos,1
+North America,Mexico,Hidalgo,San Antonio,1
+North America,Mexico,Hidalgo,Pachuca de Soto,2
+North America,Mexico,Jalisco,Zapotlanejo,2
+North America,Mexico,Jalisco,Zapopan,463
+North America,Mexico,Jalisco,Tonalá,13
+North America,Mexico,Jalisco,Tlaquepaque,83
+North America,Mexico,Jalisco,Tlajomulco de Zúñiga,2
+North America,Mexico,Jalisco,Tesistán,7
+North America,Mexico,Jalisco,Tepatitlán de Morelos,9
+North America,Mexico,Jalisco,Sayula,1
+North America,Mexico,Jalisco,Santa Rosa,2
+North America,Mexico,Jalisco,Santa Anita,1
+North America,Mexico,Jalisco,San José de los Sabinos,7
+North America,Mexico,Jalisco,San Isidro,1
+North America,Mexico,Jalisco,San Agustín,5
+North America,Mexico,Jalisco,Puerto Vallarta,3
+North America,Mexico,Jalisco,Plan de Ayala,1
+North America,Mexico,Jalisco,Ocotlán,1
+North America,Mexico,Jalisco,Nuevo México,5
+North America,Mexico,Jalisco,Nicolás R Casillas,21
+North America,Mexico,Jalisco,Los Robles,2
+North America,Mexico,Jalisco,Los Pocitos de Cerrillo,1
+North America,Mexico,Jalisco,Lomas de San Agustín,1
+North America,Mexico,Jalisco,Las Pintitas,1
+North America,Mexico,Jalisco,Las Pintas de Arriba,4
+North America,Mexico,Jalisco,Jesús María,1
+North America,Mexico,Jalisco,Hacienda Santa Fe,26
+North America,Mexico,Jalisco,Guadalajara,700
+North America,Mexico,Jalisco,El Triángulo,2
+North America,Mexico,Jalisco,El Quince,1
+North America,Mexico,Jalisco,El Puerto,9
+North America,Mexico,Jalisco,El Moral (Fraccionamiento el Moral),1
+North America,Mexico,Jalisco,El Centro,2
+North America,Mexico,Jalisco,Ciudad Guzmán,2
+North America,Mexico,Jalisco,Chapala,6
+North America,Mexico,Jalisco,Capilla de Guadalupe,3
+North America,Mexico,Jalisco,Autlán de Navarro,1
+North America,Mexico,Jalisco,Arandas,5
+North America,Mexico,México,Xico,2
+North America,Mexico,México,Valle de Bravo,1
+North America,Mexico,México,Toluca,9
+North America,Mexico,México,Tlalnepantla,2
+North America,Mexico,México,Santa María Chimalhuacán,1
+North America,Mexico,México,San José Guadalupe Otzacatipan,2
+North America,Mexico,México,Ojo de Agua,1
+North America,Mexico,México,Ocoyoacac,1
+North America,Mexico,México,Nicolás Romero,1
+North America,Mexico,México,Naucalpan de Juárez,12
+North America,Mexico,México,Las Tinajas,3
+North America,Mexico,México,Ecatepec de Morelos,3
+North America,Mexico,México,Cuautitlán Izcalli,7
+North America,Mexico,México,Coacalco,2
+North America,Mexico,México,Ciudad Nezahualcoyotl,12
+North America,Mexico,México,Ciudad López Mateos,2
+North America,Mexico,Mexico City,Xochimilco,2
+North America,Mexico,Mexico City,Tlalpan,8
+North America,Mexico,Mexico City,Miguel Hidalgo,4
+North America,Mexico,Mexico City,Mexico City,252
+North America,Mexico,Mexico City,Magdalena Contreras,4
+North America,Mexico,Mexico City,Iztapalapa,5
+North America,Mexico,Mexico City,Iztacalco,4
+North America,Mexico,Mexico City,Gustavo Adolfo Madero,3
+North America,Mexico,Mexico City,Delegación Cuajimalpa de Morelos,1
+North America,Mexico,Mexico City,Coyoacán,13
+North America,Mexico,Michoacán,Zamora,3
+North America,Mexico,Michoacán,Uruapan,1
+North America,Mexico,Michoacán,San José de Gracia,1
+North America,Mexico,Michoacán,Sahuayo de Morelos,1
+North America,Mexico,Michoacán,Morelia,8
+North America,Mexico,Michoacán,Copándaro de Galeana,1
+North America,Mexico,Michoacán,Apatzingán,1
+North America,Mexico,Morelos,Jiutepec,5
+North America,Mexico,Morelos,Cuautla,1
+North America,Mexico,Nayarit,Tepic,3
+North America,Mexico,Nuevo León,Monterrey,8
+North America,Mexico,Nuevo León,Ladrillera (Entronque Pesquería),1
+North America,Mexico,Nuevo León,Guadalupe,1
+North America,Mexico,Nuevo León,Ciudad General Escobedo,2
+North America,Mexico,Nuevo León,Ciudad Apodaca,1
+North America,Mexico,Oaxaca,Oaxaca,1
+North America,Mexico,Puebla,Puebla,10
+North America,Mexico,Puebla,Los Cerritos,1
+North America,Mexico,Querétaro,Santiago de Querétaro,35
+North America,Mexico,Querétaro,San Juan del Río,1
+North America,Mexico,Quintana Roo,Cancún,3
+North America,Mexico,San Luis Potosí,San Luis Potosí,1
+North America,Mexico,Sinaloa,Mazatlán,6
+North America,Mexico,Sinaloa,El Habal,1
+North America,Mexico,Sinaloa,Culiacán,3
+North America,Mexico,Sonora,Viñedos Viva,1
+North America,Mexico,Sonora,Hermosillo,1
+North America,Mexico,Tabasco,Villahermosa,1
+North America,Mexico,Tamaulipas,Tampico,1
+North America,Mexico,Tlaxcala,Tlaxcala,1
+North America,Mexico,Veracruz,Córdoba,1
+North America,Mexico,Veracruz,Barrio Nuevo,1
+North America,Mexico,Yucatán,Mérida,4
+North America,Mexico,Zacatecas,Zacatecas,1
+North America,Nicaragua,Masaya Department,Masaya,1
+North America,Panama,Chiriquí Province,Montilla,1
+North America,Panama,Panamá,San Miguelito,1
+North America,Puerto Rico,Aguada,Luyando,10
+North America,Puerto Rico,Aguadilla,San Antonio,3
+North America,Puerto Rico,Aguadilla,Caban,11
+North America,Puerto Rico,Aguadilla,Aguadilla,18
+North America,Puerto Rico,Arecibo,Arecibo,5
+North America,Puerto Rico,Bayamón,Bayamón,47
+North America,Puerto Rico,Cabo Rojo,Cabo Rojo,2
+North America,Puerto Rico,Caguas,Caguas,2
+North America,Puerto Rico,Carolina,Carolina,1
+North America,Puerto Rico,Cayey,Cayey,1
+North America,Puerto Rico,Dorado,Dorado,12
+North America,Puerto Rico,Guayama,Guayama,1
+North America,Puerto Rico,Guaynabo,Guaynabo,10
+North America,Puerto Rico,Hatillo,Rafael Capo,1
+North America,Puerto Rico,Humacao,Humacao,1
+North America,Puerto Rico,Humacao,Candelero Arriba,1
+North America,Puerto Rico,Isabela,Isabela,15
+North America,Puerto Rico,Lares,Lares,1
+North America,Puerto Rico,Mayagüez,Mayagüez,10
+North America,Puerto Rico,Moca,Moca,6
+North America,Puerto Rico,Ponce,Ponce,3
+North America,Puerto Rico,Quebradillas,Cacao,7
+North America,Puerto Rico,Sabana Grande,Sabana Grande,1
+North America,Puerto Rico,San Germán,San Germán,4
+North America,Puerto Rico,San Juan,San Juan,97
+North America,Puerto Rico,San Sebastián,San Sebastián,1
+North America,Puerto Rico,Toa Alta,Pájaros,1
+North America,Puerto Rico,Trujillo Alto,Trujillo Alto,35
+North America,Puerto Rico,Utuado,Utuado,1
+North America,Puerto Rico,Vega Baja,Vega Baja,4
+North America,Puerto Rico,Yauco,Yauco,1
+North America,United States,Alabama,Montgomery,1
+North America,United States,Alabama,Montevallo,1
+North America,United States,Alabama,Dadeville,1
+North America,United States,Alabama,Birmingham,5
+North America,United States,Alabama,Bessemer,3
+North America,United States,Arizona,Tempe Junction,2
+North America,United States,Arizona,Phoenix,1276
+North America,United States,Arizona,Casas Adobes,1
+North America,United States,Arkansas,Bentonville,1
+North America,United States,California,Woodland,1
+North America,United States,California,West Sacramento,27
+North America,United States,California,Watsonville,38
+North America,United States,California,Walnut Creek,3
+North America,United States,California,Vandenberg Village,1
+North America,United States,California,Vallejo,2
+North America,United States,California,Vacaville,1
+North America,United States,California,Union City,15
+North America,United States,California,Twin Lakes,1
+North America,United States,California,Turlock,2
+North America,United States,California,Truckee,1
+North America,United States,California,Tracy,15
+North America,United States,California,Sunnyvale,67
+North America,United States,California,Stockton,23
+North America,United States,California,South San Francisco,2
+North America,United States,California,South Lake Tahoe,4
+North America,United States,California,Sebastopol,1
+North America,United States,California,Scotts Valley,3
+North America,United States,California,Saratoga,4
+North America,United States,California,Santa Rosa,4
+North America,United States,California,Santa Monica,2
+North America,United States,California,Santa Cruz,1
+North America,United States,California,Santa Clarita,1
+North America,United States,California,Santa Clara,49
+North America,United States,California,San Ramon,9
+North America,United States,California,San Rafael,2
+North America,United States,California,San Mateo,3
+North America,United States,California,San Leandro,1
+North America,United States,California,San Jose,891
+North America,United States,California,San Francisco,346
+North America,United States,California,San Diego,3
+North America,United States,California,San Carlos,1
+North America,United States,California,Salinas,2
+North America,United States,California,Saint Helena,1
+North America,United States,California,Sacramento,276
+North America,United States,California,Roseville,192
+North America,United States,California,Rosemont,1
+North America,United States,California,Rohnert Park,1
+North America,United States,California,Rocklin,43
+North America,United States,California,Rio Vista,1
+North America,United States,California,Richmond,5
+North America,United States,California,Redwood City,6
+North America,United States,California,Rancho Santa Margarita,2
+North America,United States,California,Rancho Palos Verdes,1
+North America,United States,California,Rancho Murieta,1
+North America,United States,California,Rancho Cordova,3
+North America,United States,California,Prunedale,29
+North America,United States,California,Pleasanton,18
+North America,United States,California,Pleasant Hill,1
+North America,United States,California,Placerville,1
+North America,United States,California,Pittsburg,1
+North America,United States,California,Piru,1
+North America,United States,California,Petaluma,3
+North America,United States,California,Pasadena,1
+North America,United States,California,Parkway,1
+North America,United States,California,Palo Alto,19
+North America,United States,California,Orcutt,1
+North America,United States,California,Oakley,3
+North America,United States,California,Oakland,28
+North America,United States,California,North Highlands,15
+North America,United States,California,North Auburn,2
+North America,United States,California,Newark,4
+North America,United States,California,Nevada City,1
+North America,United States,California,Napa,3
+North America,United States,California,Mountain View,36
+North America,United States,California,Morgan Hill,2
+North America,United States,California,Moraga,1
+North America,United States,California,Mission Hills,1
+North America,United States,California,Milpitas,139
+North America,United States,California,Mill Valley,1
+North America,United States,California,Merced,1
+North America,United States,California,Meadow Vista,1
+North America,United States,California,Martinez,2
+North America,United States,California,Manteca,2
+North America,United States,California,Los Gatos,5
+North America,United States,California,Los Angeles,64
+North America,United States,California,Los Altos,5
+North America,United States,California,Loomis,1
+North America,United States,California,Lompoc,2
+North America,United States,California,Livermore,11
+North America,United States,California,Live Oak,2
+North America,United States,California,Lincoln,19
+North America,United States,California,Lafayette,1
+North America,United States,California,La Riviera,5
+North America,United States,California,Inglewood,1
+North America,United States,California,Hollister,2
+North America,United States,California,Hillsborough,1
+North America,United States,California,Hayward,10
+North America,United States,California,Grass Valley,1
+North America,United States,California,Granite Bay,2
+North America,United States,California,Glendora,1
+North America,United States,California,Gilroy,8
+North America,United States,California,Galt,1
+North America,United States,California,Fresno,57
+North America,United States,California,Fremont,77
+North America,United States,California,Foster City,2
+North America,United States,California,Foothill Farms,2
+North America,United States,California,Folsom,6
+North America,United States,California,Florin,1
+North America,United States,California,Felton,1
+North America,United States,California,Fairfield,1
+North America,United States,California,Fair Oaks,3
+North America,United States,California,Elk Grove,7
+North America,United States,California,El Segundo,1
+North America,United States,California,El Dorado Hills,8
+North America,United States,California,East Palo Alto,2
+North America,United States,California,East Foothills,1
+North America,United States,California,Dublin,13
+North America,United States,California,Del Mar,1
+North America,United States,California,Davis,2
+North America,United States,California,Danville,2
+North America,United States,California,Daly City,3
+North America,United States,California,Cupertino,27
+North America,United States,California,Concord,6
+North America,United States,California,Colusa,1
+North America,United States,California,Clovis,1
+North America,United States,California,Clayton,1
+North America,United States,California,Citrus Heights,3
+North America,United States,California,Chowchilla,17
+North America,United States,California,Chico,1
+North America,United States,California,Cherryland,9
+North America,United States,California,Castro Valley,3
+North America,United States,California,Carmichael,7
+North America,United States,California,Campbell,21
+North America,United States,California,Cameron Park,3
+North America,United States,California,Camarillo,1
+North America,United States,California,Callender,1
+North America,United States,California,Burlingame,1
+North America,United States,California,Broadmoor,17
+North America,United States,California,Brentwood,4
+North America,United States,California,Boulder Creek,1
+North America,United States,California,Bonny Doon,1
+North America,United States,California,Berkeley,9
+North America,United States,California,Belmont,3
+North America,United States,California,Bakersfield,1
+North America,United States,California,Auburn,5
+North America,United States,California,Antioch,4
+North America,United States,California,Antelope,1
+North America,United States,California,American Canyon,2
+North America,United States,Colorado,Woodmoor,2
+North America,United States,Colorado,Windsor,9
+North America,United States,Colorado,Westminster,2
+North America,United States,Colorado,Thornton,2
+North America,United States,Colorado,Superior,1
+North America,United States,Colorado,Nunn,1
+North America,United States,Colorado,Monument,2
+North America,United States,Colorado,Loveland,8
+North America,United States,Colorado,Longmont,2
+North America,United States,Colorado,Lakewood,1
+North America,United States,Colorado,Highlands Ranch,1
+North America,United States,Colorado,Greeley,6
+North America,United States,Colorado,Gleneagle,1
+North America,United States,Colorado,Fraser,2
+North America,United States,Colorado,Fort Collins,64
+North America,United States,Colorado,Firestone,2
+North America,United States,Colorado,Denver,169
+North America,United States,Colorado,Colorado Springs,11
+North America,United States,Colorado,Centennial,2
+North America,United States,Colorado,Aurora,2
+North America,United States,Connecticut,Windsor Locks,1
+North America,United States,Connecticut,Waterbury,1
+North America,United States,Connecticut,New Haven,1
+North America,United States,Connecticut,Naugatuck,1
+North America,United States,Florida,Winter Garden,7
+North America,United States,Florida,Weston,2
+North America,United States,Florida,Venice Gardens,1
+North America,United States,Florida,Tampa,3
+North America,United States,Florida,Saint Pete Beach,1
+North America,United States,Florida,Plantation,1
+North America,United States,Florida,Palm Harbor,1
+North America,United States,Florida,Ormond Beach,4
+North America,United States,Florida,Orlando,9
+North America,United States,Florida,Miami,17
+North America,United States,Florida,Lakeland,1
+North America,United States,Florida,Jacksonville,3
+North America,United States,Florida,Hialeah,2
+North America,United States,Florida,Gulfport,1
+North America,United States,Florida,Gainesville,2
+North America,United States,Florida,Fountainebleau,4
+North America,United States,Florida,Eastpoint,1
+North America,United States,Florida,Doral,1
+North America,United States,Florida,Daytona Beach,3
+North America,United States,Florida,Coral Springs,1
+North America,United States,Florida,Clearwater,1
+North America,United States,Florida,Citrus Ridge,1
+North America,United States,Florida,Carrollwood Village,1
+North America,United States,Florida,Cape Coral,1
+North America,United States,Georgia,Woodstock,3
+North America,United States,Georgia,Suwanee,5
+North America,United States,Georgia,Sugar Hill,5
+North America,United States,Georgia,Stonecrest,3
+North America,United States,Georgia,Stockbridge,1
+North America,United States,Georgia,Smyrna,23
+North America,United States,Georgia,Sandy Springs,4
+North America,United States,Georgia,Roswell,2
+North America,United States,Georgia,Powder Springs,2
+North America,United States,Georgia,Panthersville,1
+North America,United States,Georgia,Morrow,2
+North America,United States,Georgia,McDonough,3
+North America,United States,Georgia,Marietta,4
+North America,United States,Georgia,Macon,1
+North America,United States,Georgia,Lawrenceville,3
+North America,United States,Georgia,LaGrange,1
+North America,United States,Georgia,Kennesaw,3
+North America,United States,Georgia,Johns Creek,4
+North America,United States,Georgia,Jasper,1
+North America,United States,Georgia,Hiram,1
+North America,United States,Georgia,Hampton,1
+North America,United States,Georgia,Griffin,1
+North America,United States,Georgia,Greensboro,1
+North America,United States,Georgia,Gainesville,3
+North America,United States,Georgia,Flowery Branch,1
+North America,United States,Georgia,Ellijay,1
+North America,United States,Georgia,East Ellijay,1
+North America,United States,Georgia,Duluth,3
+North America,United States,Georgia,Doraville,1
+North America,United States,Georgia,Dawsonville,11
+North America,United States,Georgia,Dallas,1
+North America,United States,Georgia,Dahlonega,1
+North America,United States,Georgia,Dacula,1
+North America,United States,Georgia,Cumming,16
+North America,United States,Georgia,Cornelia,1
+North America,United States,Georgia,Conyers,1
+North America,United States,Georgia,Comer,1
+North America,United States,Georgia,Canton,1
+North America,United States,Georgia,Brookhaven,1
+North America,United States,Georgia,Atlanta,174
+North America,United States,Georgia,Athens,1
+North America,United States,Georgia,Alpharetta,6
+North America,United States,Georgia,Acworth,2
+North America,United States,Idaho,Sun Valley,1
+North America,United States,Idaho,Boise,1
+North America,United States,Illinois,Rolling Meadows,1
+North America,United States,Illinois,Chicago,50
+North America,United States,Illinois,Burr Ridge,1
+North America,United States,Indiana,Lafayette,1
+North America,United States,Indiana,Indianapolis,3
+North America,United States,Indiana,Greenwood,1
+North America,United States,Kansas,Wichita,15
+North America,United States,Kansas,Pretty Prairie,23
+North America,United States,Kansas,Kansas City,67
+North America,United States,Kentucky,Olive Hill,1
+North America,United States,Kentucky,Morehead,1
+North America,United States,Louisiana,Red Chute,1
+North America,United States,Louisiana,Old Jefferson,1
+North America,United States,Louisiana,New Orleans,7
+North America,United States,Louisiana,Metairie,2
+North America,United States,Louisiana,Gonzales,1
+North America,United States,Louisiana,Covington,4
+North America,United States,Maine,Wells Beach Station,1
+North America,United States,Maryland,Wheaton,1
+North America,United States,Maryland,Thurmont,1
+North America,United States,Maryland,Silver Spring,1
+North America,United States,Maryland,Riverdale Park,1
+North America,United States,Maryland,Reisterstown,1
+North America,United States,Maryland,Laurel,1
+North America,United States,Maryland,Germantown,1
+North America,United States,Maryland,Brock Hall,1
+North America,United States,Maryland,Bowie,1
+North America,United States,Maryland,Baltimore,10
+North America,United States,Massachusetts,Yarmouth,1
+North America,United States,Massachusetts,Worcester,4
+North America,United States,Massachusetts,Westford,2
+North America,United States,Massachusetts,Tewksbury,1
+North America,United States,Massachusetts,Shrewsbury,1
+North America,United States,Massachusetts,Pepperell,1
+North America,United States,Massachusetts,Peabody,1
+North America,United States,Massachusetts,Northborough,1
+North America,United States,Massachusetts,North Andover,1
+North America,United States,Massachusetts,Natick,1
+North America,United States,Massachusetts,Medford,1
+North America,United States,Massachusetts,Malden,1
+North America,United States,Massachusetts,Leominster,2
+North America,United States,Massachusetts,Lawrence,4
+North America,United States,Massachusetts,Hudson,1
+North America,United States,Massachusetts,Hopkinton,1
+North America,United States,Massachusetts,Grafton,1
+North America,United States,Massachusetts,Gardner,1
+North America,United States,Massachusetts,Franklin,1
+North America,United States,Massachusetts,Fitchburg,2
+North America,United States,Massachusetts,Cordaville,1
+North America,United States,Massachusetts,Concord,1
+North America,United States,Massachusetts,Cohasset,2
+North America,United States,Massachusetts,Cambridge,6
+North America,United States,Massachusetts,Boston,33
+North America,United States,Massachusetts,Billerica,1
+North America,United States,Massachusetts,Ayer,1
+North America,United States,Massachusetts,Avon,1
+North America,United States,Massachusetts,Arlington,2
+North America,United States,Massachusetts,Andover,3
+North America,United States,Michigan,Grand Rapids,1
+North America,United States,Michigan,Detroit,5
+North America,United States,Michigan,Ann Arbor,1
+North America,United States,Minnesota,Woodbury,2
+North America,United States,Minnesota,White Bear Lake,1
+North America,United States,Minnesota,Victoria,1
+North America,United States,Minnesota,Saint Paul,1
+North America,United States,Minnesota,Saint Michael,1
+North America,United States,Minnesota,Rosemount,4
+North America,United States,Minnesota,Prior Lake,1
+North America,United States,Minnesota,New Brighton,1
+North America,United States,Minnesota,Minneapolis,47
+North America,United States,Minnesota,Maple Grove,1
+North America,United States,Minnesota,Edina,2
+North America,United States,Minnesota,Eden Prairie,1
+North America,United States,Minnesota,Eagan,2
+North America,United States,Minnesota,Cologne,1
+North America,United States,Minnesota,Chanhassen,1
+North America,United States,Minnesota,Burnsville,1
+North America,United States,Minnesota,Brooklyn Park,1
+North America,United States,Minnesota,Bloomington,7
+North America,United States,Missouri,Wildwood,56
+North America,United States,Missouri,St. Louis,6
+North America,United States,Missouri,Sedalia,1
+North America,United States,Missouri,O'Fallon,4
+North America,United States,Missouri,Kansas City,38
+North America,United States,Montana,Kalispell,1
+North America,United States,Nebraska,Omaha,1
+North America,United States,Nevada,Reno,19
+North America,United States,Nevada,Lemmon Valley,5
+North America,United States,Nevada,Las Vegas,47
+North America,United States,Nevada,Carson City,1
+North America,United States,New Hampshire,Manchester,3
+North America,United States,New Hampshire,Conway,1
+North America,United States,New Jersey,Woodbridge,2
+North America,United States,New Jersey,Willingboro,1
+North America,United States,New Jersey,Westwood,1
+North America,United States,New Jersey,Westfield,1
+North America,United States,New Jersey,Weehawken,2
+North America,United States,New Jersey,Warren Township,2
+North America,United States,New Jersey,Union,1
+North America,United States,New Jersey,Twin Rivers,1
+North America,United States,New Jersey,Summit,1
+North America,United States,New Jersey,Succasunna,1
+North America,United States,New Jersey,Sparta,2
+North America,United States,New Jersey,South River,1
+North America,United States,New Jersey,Somerville,1
+North America,United States,New Jersey,Somerset,1
+North America,United States,New Jersey,Secaucus,1
+North America,United States,New Jersey,Seaside Heights,1
+North America,United States,New Jersey,Sayreville Junction,1
+North America,United States,New Jersey,Sayreville,1
+North America,United States,New Jersey,Roselle,1
+North America,United States,New Jersey,Red Bank,1
+North America,United States,New Jersey,Randolph,2
+North America,United States,New Jersey,Plainfield,3
+North America,United States,New Jersey,Piscataway,1
+North America,United States,New Jersey,Paterson,1
+North America,United States,New Jersey,Parsippany,3
+North America,United States,New Jersey,Paramus,2
+North America,United States,New Jersey,Newark,7
+North America,United States,New Jersey,Mount Laurel,58
+North America,United States,New Jersey,Milford,1
+North America,United States,New Jersey,Middletown,14
+North America,United States,New Jersey,Middlesex,1
+North America,United States,New Jersey,Marlboro,1
+North America,United States,New Jersey,Mahwah,1
+North America,United States,New Jersey,Lakewood,1
+North America,United States,New Jersey,Lake Hopatcong,1
+North America,United States,New Jersey,Jersey City,2
+North America,United States,New Jersey,Jamesburg,1
+North America,United States,New Jersey,Irvington,3
+North America,United States,New Jersey,Hillsborough,2
+North America,United States,New Jersey,Harlingen,1
+North America,United States,New Jersey,Hackensack,1
+North America,United States,New Jersey,Garfield,1
+North America,United States,New Jersey,Frenchtown,1
+North America,United States,New Jersey,Franklin Park,1
+North America,United States,New Jersey,Flemington,2
+North America,United States,New Jersey,Fair Lawn,1
+North America,United States,New Jersey,Ewing,1
+North America,United States,New Jersey,Edison,29
+North America,United States,New Jersey,Delanco,2
+North America,United States,New Jersey,Crandon Lakes,1
+North America,United States,New Jersey,Clifton,1
+North America,United States,New Jersey,Clark,1
+North America,United States,New Jersey,Cherry Hill,1
+North America,United States,New Jersey,Chatham,1
+North America,United States,New Jersey,Camden,1
+North America,United States,New Jersey,Bridgewater,2
+North America,United States,New Jersey,Bound Brook,2
+North America,United States,New Jersey,Bloomfield,1
+North America,United States,New Jersey,Blairstown,1
+North America,United States,New Jersey,Berkeley Heights,7
+North America,United States,New Jersey,Belmar,1
+North America,United States,New Jersey,Basking Ridge,3
+North America,United States,New Jersey,Asbury Park,1
+North America,United States,New Jersey,Andover,1
+North America,United States,New York,Syracuse,1
+North America,United States,New York,New York City,77
+North America,United States,New York,Harrison,1
+North America,United States,New York,Glen Cove,1
+North America,United States,New York,Fort Hamilton,2
+North America,United States,New York,Delmar,1
+North America,United States,New York,Coram,1
+North America,United States,New York,Cheektowaga,1
+North America,United States,New York,Central Islip,1
+North America,United States,New York,Astoria,2
+North America,United States,New York,Albany,1
+North America,United States,North Carolina,Wilson,14
+North America,United States,North Carolina,Wake Forest,6
+North America,United States,North Carolina,Saxapahaw,1
+North America,United States,North Carolina,Salisbury,1
+North America,United States,North Carolina,Rolesville,1
+North America,United States,North Carolina,Raleigh,78
+North America,United States,North Carolina,Pittsboro,1
+North America,United States,North Carolina,Morrisville,13
+North America,United States,North Carolina,Mebane,1
+North America,United States,North Carolina,Lillington,1
+North America,United States,North Carolina,Kings Mountain,1
+North America,United States,North Carolina,Holly Springs,3
+North America,United States,North Carolina,Hillsborough,2
+North America,United States,North Carolina,High Point,1
+North America,United States,North Carolina,Harrisburg,1
+North America,United States,North Carolina,Garner,13
+North America,United States,North Carolina,Forest Hills,4
+North America,United States,North Carolina,Fayetteville,1
+North America,United States,North Carolina,Durham,3
+North America,United States,North Carolina,Charlotte,68
+North America,United States,North Carolina,Chapel Hill,2
+North America,United States,North Carolina,Cary,42
+North America,United States,North Carolina,Apex,14
+North America,United States,North Carolina,Albemarle,1
+North America,United States,North Dakota,Brocket,1
+North America,United States,Ohio,Hilliard,1
+North America,United States,Ohio,Dublin,1
+North America,United States,Ohio,Columbus,7
+North America,United States,Ohio,Cleveland,3
+North America,United States,Ohio,Cincinnati,1
+North America,United States,Ohio,Canton,1
+North America,United States,Ohio,Akron,1
+North America,United States,Oklahoma,Oklahoma City,2
+North America,United States,Oklahoma,Edmond,10
+North America,United States,Oregon,Tigard,1
+North America,United States,Oregon,Portland,4
+North America,United States,Oregon,Pendleton,1
+North America,United States,Oregon,Florence,1
+North America,United States,Oregon,Corvallis,1
+North America,United States,Oregon,Boardman,3
+North America,United States,Oregon,Bend,1
+North America,United States,Pennsylvania,Wayne,1
+North America,United States,Pennsylvania,State College,1
+North America,United States,Pennsylvania,Radnor,1
+North America,United States,Pennsylvania,Pittsburgh,5
+North America,United States,Pennsylvania,Phoenixville,2
+North America,United States,Pennsylvania,Philadelphia,17
+North America,United States,Pennsylvania,Paoli,1
+North America,United States,Pennsylvania,Malvern,1
+North America,United States,Pennsylvania,Easton,1
+North America,United States,Pennsylvania,Coatesville,1
+North America,United States,Pennsylvania,Chester Heights,1
+North America,United States,Pennsylvania,Allentown,3
+North America,United States,Rhode Island,Providence,1
+North America,United States,South Carolina,Fort Mill,1
+North America,United States,Tennessee,Townsend,1
+North America,United States,Tennessee,Nashville,1
+North America,United States,Tennessee,Memphis,1
+North America,United States,Tennessee,Martin,1
+North America,United States,Tennessee,Bartlett,1
+North America,United States,Texas,Wylie,3
+North America,United States,Texas,Willis,2
+North America,United States,Texas,Wharton,1
+North America,United States,Texas,West University Place,1
+North America,United States,Texas,Wells Branch,6
+North America,United States,Texas,Waller,2
+North America,United States,Texas,Waco,1
+North America,United States,Texas,Tyler,1
+North America,United States,Texas,Tomball,54
+North America,United States,Texas,The Woodlands,31
+North America,United States,Texas,The Colony,5
+North America,United States,Texas,Sunset Valley,1
+North America,United States,Texas,Sugar Land,1
+North America,United States,Texas,Spring Valley,3
+North America,United States,Texas,Spring,740
+North America,United States,Texas,Shenandoah,2
+North America,United States,Texas,Sealy,1
+North America,United States,Texas,Seabrook,1
+North America,United States,Texas,Sanger,1
+North America,United States,Texas,San Antonio,21
+North America,United States,Texas,Rowlett,1
+North America,United States,Texas,Rosenberg,1
+North America,United States,Texas,Richardson,84
+North America,United States,Texas,Plano,16
+North America,United States,Texas,Pinehurst,19
+North America,United States,Texas,Pecan Grove,1
+North America,United States,Texas,Pearland,4
+North America,United States,Texas,Pasadena,1
+North America,United States,Texas,Panorama Village,1
+North America,United States,Texas,Oak Ridge North,1
+North America,United States,Texas,Oak Cliff Place,5
+North America,United States,Texas,North Richland Hills,1
+North America,United States,Texas,Nassau Bay,2
+North America,United States,Texas,Murphy,1
+North America,United States,Texas,Montgomery,3
+North America,United States,Texas,Missouri City,2
+North America,United States,Texas,Mission Bend,1
+North America,United States,Texas,Midlothian,1
+North America,United States,Texas,Mesquite,1
+North America,United States,Texas,McKinney,11
+North America,United States,Texas,Lubbock,2
+North America,United States,Texas,Lorena,1
+North America,United States,Texas,Live Oak,1
+North America,United States,Texas,Little Elm,3
+North America,United States,Texas,Lewisville,1
+North America,United States,Texas,Leonard,1
+North America,United States,Texas,Leon Valley,1
+North America,United States,Texas,Leander,4
+North America,United States,Texas,League City,4
+North America,United States,Texas,Lantana,1
+North America,United States,Texas,Lakehills,1
+North America,United States,Texas,Killeen,1
+North America,United States,Texas,Keller,4
+North America,United States,Texas,Katy,93
+North America,United States,Texas,Jersey Village,9
+North America,United States,Texas,Irving,20
+North America,United States,Texas,Iowa Colony,2
+North America,United States,Texas,Hunters Creek Village,1
+North America,United States,Texas,Hudson,3
+North America,United States,Texas,Houston,971
+North America,United States,Texas,Highland Village,1
+North America,United States,Texas,Gun Barrel City,1
+North America,United States,Texas,Grapevine,3
+North America,United States,Texas,Georgetown,1
+North America,United States,Texas,Garland,1
+North America,United States,Texas,Fulshear,1
+North America,United States,Texas,Frisco,22
+North America,United States,Texas,Fort Worth,10
+North America,United States,Texas,Forney,3
+North America,United States,Texas,Euless,1
+North America,United States,Texas,DeSoto,1
+North America,United States,Texas,Denton,32
+North America,United States,Texas,Dayton,1
+North America,United States,Texas,Dallas,281
+North America,United States,Texas,Cypress,83
+North America,United States,Texas,Conroe,35
+North America,United States,Texas,College Station,7
+North America,United States,Texas,Cockrell Hill,15
+North America,United States,Texas,Clute,21
+North America,United States,Texas,Cinco Ranch,1
+North America,United States,Texas,Cedar Park,2
+North America,United States,Texas,Cedar Hill,4
+North America,United States,Texas,Carrollton,4
+North America,United States,Texas,Canyon Lake,22
+North America,United States,Texas,Burleson,1
+North America,United States,Texas,Bryan,1
+North America,United States,Texas,Brookshire,1
+North America,United States,Texas,Brenham,1
+North America,United States,Texas,Beaumont,1
+North America,United States,Texas,Austin,60
+North America,United States,Texas,Athens,1
+North America,United States,Texas,Atascocita,11
+North America,United States,Texas,Arlington,4
+North America,United States,Texas,Anna,1
+North America,United States,Texas,Alma,1
+North America,United States,Texas,Allen,4
+North America,United States,Texas,Alief,9
+North America,United States,Texas,Aldine,5
+North America,United States,Texas,Addison,4
+North America,United States,Utah,Salt Lake City,22
+North America,United States,Virginia,Woodlake,1
+North America,United States,Virginia,West Springfield,1
+North America,United States,Virginia,University Center,1
+North America,United States,Virginia,Tysons Corner,1
+North America,United States,Virginia,Sugarland Run,1
+North America,United States,Virginia,Sterling,2
+North America,United States,Virginia,South Riding,2
+North America,United States,Virginia,Roanoke,1
+North America,United States,Virginia,Richmond,2
+North America,United States,Virginia,Reston,5
+North America,United States,Virginia,Portsmouth Heights,1
+North America,United States,Virginia,McLean,1
+North America,United States,Virginia,Front Royal,1
+North America,United States,Virginia,Fairfax,1
+North America,United States,Virginia,Burke,1
+North America,United States,Virginia,Brandermill,1
+North America,United States,Virginia,Ashburn,121
+North America,United States,Virginia,Arlington,2
+North America,United States,Washington,Spokane,1
+North America,United States,Washington,Seattle,39
+North America,United States,Washington,Riverton,1
+North America,United States,Washington,Redmond,81
+North America,United States,Washington,Orchards,1
+North America,United States,Washington,Lake Stickney,1
+North America,United States,Washington,Fife,1
+North America,United States,Washington,Burien,1
+North America,United States,"Washington, D.C.",Washington,19
+North America,United States,West Virginia,Charleston,1
+North America,United States,Wisconsin,Westby,1
+North America,United States,Wisconsin,Wausau,1
+North America,United States,Wisconsin,River Falls,1
+North America,United States,Wisconsin,Milwaukee,1
+North America,United States,Wisconsin,Chippewa Falls,2
+North America,United States,Wisconsin,Appleton,1
+Oceania,Australia,Australian Capital Territory,Canberra,1
+Oceania,Australia,New South Wales,Sydney,145
+Oceania,Australia,New South Wales,Liverpool,3
+Oceania,Australia,New South Wales,Hornsby,2
+Oceania,Australia,Queensland,Brisbane,2
+Oceania,Australia,South Australia,Adelaide,1
+Oceania,Australia,Victoria,Melbourne,84
+Oceania,Australia,Victoria,Bolinda,1
+Oceania,Australia,Western Australia,Perth,1
+Oceania,French Polynesia,Îles du Vent,Faaa,1
+South America,Argentina,Buenos Aires,Zárate,1
+South America,Argentina,Buenos Aires,Villa Sarmiento,1
+South America,Argentina,Buenos Aires,Tortuguitas,2
+South America,Argentina,Buenos Aires,Santos Lugares,3
+South America,Argentina,Buenos Aires,San Pedro,1
+South America,Argentina,Buenos Aires,San Miguel,2
+South America,Argentina,Buenos Aires,San Justo,1
+South America,Argentina,Buenos Aires,San Isidro,7
+South America,Argentina,Buenos Aires,Pinamar,1
+South America,Argentina,Buenos Aires,Olivos,2
+South America,Argentina,Buenos Aires,Mar del Plata,1
+South America,Argentina,Buenos Aires,Lomas de Zamora,4
+South America,Argentina,Buenos Aires,La Plata,1
+South America,Argentina,Buenos Aires,Hurlingham,1
+South America,Argentina,Buenos Aires,General San Martín,1
+South America,Argentina,Buenos Aires,Florencio Varela,1
+South America,Argentina,Buenos Aires,Ezeiza,1
+South America,Argentina,Buenos Aires,Don Torcuato,2
+South America,Argentina,Buenos Aires,Ciudad del Libertador General San Martín,3
+South America,Argentina,Buenos Aires,Caseros,1
+South America,Argentina,Buenos Aires,Cariló,1
+South America,Argentina,Buenos Aires,Capilla del Señor,1
+South America,Argentina,Buenos Aires,Campana,1
+South America,Argentina,Buenos Aires,Adrogué,2
+South America,Argentina,Buenos Aires F.D.,Buenos Aires,76
+South America,Argentina,Corrientes,Corrientes,1
+South America,Argentina,Entre Rios,Rosario del Tala,1
+South America,Argentina,Entre Rios,Gualeguay,1
+South America,Argentina,La Pampa,Santa Rosa,1
+South America,Brazil,Espírito Santo,Vitória,1
+South America,Brazil,Goiás,Goiânia,12
+South America,Brazil,Paraná,Londrina,1
+South America,Brazil,Pernambuco,Recife,1
+South America,Brazil,Rio de Janeiro,Rio de Janeiro,4
+South America,Brazil,Rio de Janeiro,Armação de Búzios,1
+South America,Brazil,São Paulo,Taboão da Serra,5
+South America,Brazil,São Paulo,Suzano,1
+South America,Brazil,São Paulo,São Vicente,1
+South America,Brazil,São Paulo,São Roque,1
+South America,Brazil,São Paulo,São Paulo,140
+South America,Brazil,São Paulo,São José dos Campos,1
+South America,Brazil,São Paulo,São Caetano do Sul,1
+South America,Brazil,São Paulo,São Bernardo do Campo,3
+South America,Brazil,São Paulo,Santos,1
+South America,Brazil,São Paulo,Santo André,2
+South America,Brazil,São Paulo,Santana de Parnaíba,4
+South America,Brazil,São Paulo,Praia Grande,2
+South America,Brazil,São Paulo,Piracicaba,2
+South America,Brazil,São Paulo,Pindorama,1
+South America,Brazil,São Paulo,Pilar do Sul,1
+South America,Brazil,São Paulo,Penápolis,1
+South America,Brazil,São Paulo,Paulínia,1
+South America,Brazil,São Paulo,Osasco,66
+South America,Brazil,São Paulo,Mauá,3
+South America,Brazil,São Paulo,Jundiaí,1
+South America,Brazil,São Paulo,Itaquaquecetuba,1
+South America,Brazil,São Paulo,Indaiatuba,1
+South America,Brazil,São Paulo,Guarulhos,3
+South America,Brazil,São Paulo,Francisco Morato,1
+South America,Brazil,São Paulo,Ferraz de Vasconcelos,1
+South America,Brazil,São Paulo,Embu,1
+South America,Brazil,São Paulo,Diadema,6
+South America,Brazil,São Paulo,Cotia,6
+South America,Brazil,São Paulo,Carapicuíba,3
+South America,Brazil,São Paulo,Campinas,28
+South America,Brazil,São Paulo,Caieiras,1
+South America,Brazil,São Paulo,Bragança Paulista,1
+South America,Brazil,São Paulo,Barueri,12
+South America,Chile,Biobío,Concepción,2
+South America,Chile,Coquimbo Region,Coquimbo,1
+South America,Chile,Los Lagos Region,Puerto Varas,1
+South America,Chile,Maule Region,Talca,1
+South America,Chile,Santiago Metropolitan,Santiago,59
+South America,Chile,Santiago Metropolitan,San Bernardo,2
+South America,Chile,Santiago Metropolitan,Puente Alto,1
+South America,Chile,Santiago Metropolitan,Paine,1
+South America,Chile,Santiago Metropolitan,Lo Prado,1
+South America,Chile,Santiago Metropolitan,Chicureo,1
+South America,Chile,Valparaíso,Viña del Mar,1
+South America,Chile,Valparaíso,San Felipe,4
+South America,Colombia,Antioquia,Medellín,1
+South America,Colombia,Antioquia,Itagüí,1
+South America,Colombia,Atlántico,Barranquilla,2
+South America,Colombia,Bogota D.C.,Bogotá,117
+South America,Colombia,Bogota D.C.,Barrio San Luis,1
+South America,Colombia,Bolívar,Santa Rosa,1
+South America,Colombia,Córdoba,Montería,1
+South America,Colombia,Cundinamarca,Zipaquirá,1
+South America,Colombia,Cundinamarca,Tocancipá,1
+South America,Colombia,Cundinamarca,Soacha,1
+South America,Colombia,Cundinamarca,Madrid,2
+South America,Colombia,Cundinamarca,La Calera,6
+South America,Colombia,Cundinamarca,Funza,2
+South America,Colombia,Cundinamarca,Cota,1
+South America,Colombia,Cundinamarca,Chía,2
+South America,Colombia,Huila,Colombia,1
+South America,Peru,Callao,Ventanilla,1
+South America,Peru,Callao,Callao,2
+South America,Peru,Junin,Vilcacoto,1
+South America,Peru,La Libertad,Trujillo,4
+South America,Peru,Lima,Lima,51
+South America,Peru,Lima Province,Lima,78
+South America,Peru,Lima region,San Isidro,12
+South America,Peru,Lima region,San Francisco De Borja,1
+South America,Peru,Lima region,Manchay Bajo,1
+South America,Peru,Lima region,La Molina,1
+South America,Peru,Piura,Piura,1
+South America,Uruguay,Flores Department,Trinidad,1
